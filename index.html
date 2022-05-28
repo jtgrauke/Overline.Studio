@@ -1,0 +1,56 @@
+---
+layout: default
+title: Create the future by giving shape to your ideas
+description: We help companies create the future by giving shape to their ideas. Overline is a brand and UI design studio in Moscow, ID. 
+featured_image: /images/social.jpg
+---
+
+<section>
+	<div class="wrap">
+		<div class="span-12 md-span-8 lg-span-6  mt6 pt6 mb6 pb6">
+			<h1 class="displayXLarge">Reform your brand. Maximize your growth.</h1>
+		</div>
+		
+	</div>
+</section>
+
+<section>
+
+	<!-- <div class="gallery" data-columns="1">
+		<img src="/images/demo/demo-landscape.jpg">
+		<img src="/images/demo/demo-landscape-2.jpg">
+	</div> -->
+
+	<div class="wrap">
+		<div class="span-12">
+			<p>Overline is a design studio in Moscow, Idaho. We help companies gain clarity in their story, and establish a strong design foundation through strategy, visual identity, and digital design.</p>
+		</div>
+
+		<div class="portfolio span-12">
+
+			{% for project in site.projects reversed %}
+
+			<div class="portfolio-item">
+
+				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+
+					<div class="portfolio-item__image">
+						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					</div>
+
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ project.description }}</h3>
+						<p class="portfolio-item__services caption">{{ project.services }}</p>
+					</div>
+
+				</a>
+
+			</div>
+
+			{% endfor %}
+		</div>
+
+	</div>
+
+</section>

@@ -1,0 +1,88 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Blog
+
+// - - - - - - - - - - - - - - - - - -
+
+.blog {
+	padding: 0 5%;
+
+	article {
+		max-width: 640px;
+		margin: 0 auto 80px;
+		padding-bottom: 80px;
+		border-bottom: 1px solid $text-light-color;
+		
+		p {
+			max-width: 100%;
+		}
+
+		.entry img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+
+	&.single article {
+		border-bottom: 0;
+		padding-bottom: 0;
+	}
+}
+
+figure {
+    margin-bottom: 1.5em;
+}
+
+figcaption {
+	text-align: center;
+	font-style: italic;
+	padding: 12px;
+}
+
+.byline {
+	display: flex;
+    align-items: center;
+    margin: 16px auto;
+
+	.byline-pic { 
+		background-repeat: no-repeat; 
+	   width: 32px;
+	   height: 32px;
+	   margin-right: 16px;
+	   background-size: cover;
+	   border-radius: 24px;
+   }
+}
+
+.isaac      { background-image:url(/images/authors/isaac.jpg); }
+.james      { background-image:url(/images/authors/james.jpg); }
+.adam       { background-image:url(/images/authors/adam.jpg); }
+.mark       { background-image:url(/images/authors/mark.jpg); }
+.nick       { background-image:url(/images/authors/nick.jpg); }
+.joseph     { background-image:url(/images/authors/joseph.jpg); }
+.brendan    { background-image:url(/images/authors/brendan.jpg); }
+.toby       { background-image:url(/images/authors/toby.jpg); }
+.christian  { background-image:url(/images/authors/christian.jpg); }
+.pat        { background-image:url(/images/authors/pat.jpg); }
+.joel       { background-image:url(/images/authors/joel.jpg); }
+.josh       { background-image:url(/images/authors/josh.jpg); }
+.josiah     { background-image:url(/images/authors/josiah.jpg); }
+.matt       { background-image:url(/images/authors/matt.jpg); }
+.jordan     { background-image:url(/images/authors/jordan.jpg); }
+.caleb      { background-image:url(/images/authors/caleb.jpg); }
+
+
+.pagination .wrap {
+	max-width: 640px;
+	margin: 0 auto;
+}
+
+.pagination__prev {
+	float: right;
+	margin-right: 10px;
+}
+
+.pagination__next {
+	text-align: left;
+}

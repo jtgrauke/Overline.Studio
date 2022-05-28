@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign downauthor = page.author | downcase %}
+{% assign author = site.data.settings.authors[downauthor] %}
+
+<section class="blog single">
+
+	<article>
+
+		<h3 class="displayMedium">{{ page.title }}</h3>
+		<div class="byline clear">
+			{% if author %}
+				<div class="byline-pic {{ author.profile_image_class }}"></div>			
+				<span>{{ author.first_name }} wrote this on {{ page.date | date_to_long_string }}</span>
+			{% endif %}
+		</div>
+		<div class="entry clear">
+			{{ page.content }}
+		</div>
+
+	</article>
+
+</section>

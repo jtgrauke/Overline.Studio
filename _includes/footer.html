@@ -1,0 +1,12 @@
+<footer class="footer">
+
+	<div class="wrap">
+		<div class="sm-span-12">
+			{% for item in site.data.settings.menu_settings.legal_menu_items %}
+			<a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+			{% endfor %}
+			<p>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</p>
+		</div>
+	</div>
+
+</footer>

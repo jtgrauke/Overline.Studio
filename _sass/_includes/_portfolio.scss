@@ -1,0 +1,80 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Portfolio
+
+// - - - - - - - - - - - - - - - - - -
+
+.portfolio {
+
+	@include mq(laptop) {
+		margin: -$grid-spacing/2;
+	}
+}
+
+.portfolio-item {
+	position: relative;
+	margin-bottom: 56px;
+
+	@include mq(laptop) {
+		padding: $grid-spacing/2;
+		// padding: $grid-spacing/4;
+		float: left;
+		width: 50%;
+	}
+}
+
+.portfolio-item__link {
+	position: relative;
+	display: block;
+
+	.portfolio-item__services {
+		opacity: 0;
+		margin-top: 32px;
+		transition: opacity 0.3s ease-in;
+	}
+
+	&:hover {
+
+		.portfolio-item__services {
+			opacity: 1;
+		}
+	}
+
+}
+
+.portfolio-item__image {
+	width: 100%;
+}
+
+.portfolio-item__content {
+	padding-top: 24px;
+	// position: absolute;
+	// top: 0;
+	// right: 0;
+	// bottom: 0;
+	// left: 0;
+	// display: flex;
+	// padding: 2em;
+	// justify-content: left;
+	// background: rgba($overlay-background-color, $overlay-opacity);
+	// opacity: 0;
+	// visibility: hidden;
+	// @include transition(all 0.2s ease-in-out);
+
+	h2 {
+		margin: 0;
+	}
+
+	.portfolio-item__info {
+		// position: absolute;
+		// bottom: 0;
+
+		// * {
+		// 	color: $overlay_text_color;
+		// }
+	}
+}
+
+.project-intro p {
+	font-size: 1.5em;
+}

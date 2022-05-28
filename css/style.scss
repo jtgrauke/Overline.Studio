@@ -1,0 +1,69 @@
+---
+---
+
+// - - - - - - - - - - Foundations
+
+@import "_reset";
+@import "_mixins";
+@import "_plugins";
+
+
+
+// - - - - - - - - - - Variables
+
+
+// Colors
+
+$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
+$border-color: {{ site.data.settings.color_settings.border_color }};
+
+$text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
+$text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
+$text-light-color: {{ site.data.settings.color_settings.text_light_color }};
+
+$accent-color: {{ site.data.settings.color_settings.accent_color }};
+
+$overlay-background-color: {{ site.data.settings.color_settings.overlay_background_color }};
+$overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
+$overlay-accent-color: {{ site.data.settings.color_settings.overlay_accent_color }};
+
+$error-color: {{ site.data.settings.color_settings.error_color }};
+
+
+// Fonts
+
+$body-font: {{ site.data.settings.font_settings.body_font }};
+$title-font: {{ site.data.settings.font_settings.title_font }};
+$detail-font: {{ site.data.settings.font_settings.detail_font }};
+
+$regular-weight: {{ site.data.settings.font_settings.regular_weight }};
+$bold-weight: {{ site.data.settings.font_settings.bold_weight }};
+
+// Logo
+$logo-width: {{ site.data.settings.header_settings.logo_width }}px;
+$footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
+
+// Grid item
+$overlay-opacity: {{ site.data.settings.grid_settings.overlay_opacity }};
+$grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
+
+
+// - - - - - - - - - - Global styles
+
+@import "_basic";
+
+@import "_includes/_header";
+@import "_includes/_footer";
+
+@import "_includes/_content";
+@import "_includes/_socials";
+@import "_includes/_gallery";
+@import "_includes/_syntax";
+
+
+// - - - - - - - - - - Section styles
+
+@import "_includes/_blog";
+@import "_includes/_portfolio";
+@import "_includes/_contact-form";

@@ -21,7 +21,4 @@ cover_image: 'images/projects/bobtail/cover.jpg'
 <div class="span-12 pt3">
     <img src="{{ '/images/projects/bobtail/stationery.jpg' | relative_url }}" />
 </div>
-<div class="span-12 pt3">
-    <img src="{{ '/images/projects/bobtail/stationery.jpg' | relative_url }}" />
-</div>
 

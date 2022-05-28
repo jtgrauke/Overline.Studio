@@ -10,15 +10,15 @@ cover_image: 'images/projects/bobtail/cover.jpg'
 ---
 
 <div class="span-12">
-    <img src="{{ 'images/projects/bobtail/logo.jpg' | relative_url }}" />
+    <img src="{{ '/images/projects/bobtail/logo.jpg' | relative_url }}" />
 </div>
 <div class="span-6 pt3">
-    <img src="{{ 'images/projects/bobtail/attributes.jpg' | relative_url }}" />
+    <img src="{{ '/images/projects/bobtail/attributes.jpg' | relative_url }}" />
 </div>
 <div class="span-6 start-7 pt3">
-    <img src="{{ 'images/projects/bobtail/cheery-rings.jpg' | relative_url }}" />
+    <img src="{{ '/images/projects/bobtail/cheery-rings.jpg' | relative_url }}" />
 </div>
 <div class="span-12 pt3">
-    <img src="{{ 'images/projects/bobtail/stationery.jpg' | relative_url }}" />
+    <img src="{{ '/images/projects/bobtail/stationery.jpg' | relative_url }}" />
 </div>
 

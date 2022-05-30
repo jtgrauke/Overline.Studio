@@ -21,7 +21,6 @@
 
 	@include mq(laptop) {
 		padding: $grid-spacing/2;
-		// padding: $grid-spacing/4;
 		float: left;
 		width: 50%;
 	}
@@ -32,9 +31,12 @@
 	display: block;
 
 	.portfolio-item__services {
-		opacity: 0;
-		margin-top: 32px;
-		transition: opacity 0.3s ease-in;
+
+		@include mq(laptop) {
+			opacity: 0;
+			transition: opacity 0.3s ease-in;
+		}
+			
 	}
 
 	&:hover {

@@ -12,13 +12,46 @@ cover_image: 'images/projects/bobtail/cover.jpg'
 <div class="span-12">
     <img src="{{ '/images/projects/bobtail/logo.jpg' | relative_url }}" />
 </div>
+
 <div class="span-6 pt3">
     <img src="{{ '/images/projects/bobtail/attributes.jpg' | relative_url }}" />
 </div>
 <div class="span-6 start-7 pt3">
     <img src="{{ '/images/projects/bobtail/cheery-rings.jpg' | relative_url }}" />
 </div>
+
 <div class="span-12 pt3">
     <img src="{{ '/images/projects/bobtail/stationery.jpg' | relative_url }}" />
 </div>
 
+<div class="span-6 pt3">
+    <img src="{{ '/images/projects/bobtail/color.jpg' | relative_url }}" />
+</div>
+<div class="span-6 start-7 pt3">
+    <img src="{{ '/images/projects/bobtail/typography.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt3">
+    <img src="{{ '/images/projects/bobtail/photography.jpg' | relative_url }}" />
+</div>
+
+<div class="span-4 pt3">
+    <img src="{{ '/images/projects/bobtail/illustration-1.jpg' | relative_url }}" />
+</div>
+<div class="span-4 start-5 pt3">
+    <img src="{{ '/images/projects/bobtail/illustration-2.jpg' | relative_url }}" />
+</div>
+<div class="span-4 start-9 pt3">
+    <img src="{{ '/images/projects/bobtail/illustration-3.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt3">
+    <img src="{{ '/images/projects/bobtail/social.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt3">
+    <img src="{{ '/images/projects/bobtail/homepage.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt3">
+    <img src="{{ '/images/projects/bobtail/pricing.jpg' | relative_url }}" />
+</div>

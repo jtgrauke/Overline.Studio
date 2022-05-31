@@ -573,7 +573,8 @@ section {
 	.span-12	{grid-column-end: span 12;}
 
 	@include mq(tabletp) {
-		grid-column-gap: 40px;
+
+		grid-column-gap: 16px;
 
         .sm-start-1	 {grid-column-start: 1 column;}
         .sm-start-2	 {grid-column-start: 2 column;}
@@ -602,6 +603,10 @@ section {
 	}
 
 	@include mq(tabletl) {
+
+		grid-column-gap: 16px;
+
+
 		.md-start-1	 {grid-column-start: 1 column;}
 		.md-start-2  {grid-column-start: 2 column;}
 		.md-start-3  {grid-column-start: 3 column;}
@@ -629,6 +634,9 @@ section {
 	}
 
 	@include mq(laptop) {
+
+		grid-column-gap: 32px;
+
 		padding: 0 32px;
 
 		.lg-start-1	 {grid-column-start: 1 column;}

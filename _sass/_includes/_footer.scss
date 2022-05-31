@@ -26,6 +26,21 @@
 	100% {transform: rotate(180deg);}
 }
 
+@keyframes circle-one-hover {
+	0% {top: 0;}
+	100% {top: 16px;}
+}
+  
+@keyframes circle-two-hover {
+	0% {bottom: 0;}
+	100% {bottom: 16px;}
+}
+  
+@keyframes line-hover {
+	0% {transform: rotate(0deg);}
+	100% {transform: rotate(180deg);}
+}
+
 .overline-mark {
 	display: block;
 	position: relative;
@@ -33,11 +48,15 @@
 	width: 56px;
 	
 	* { 
-		transition: all .2s ease-in-out;
 		animation-duration: 7s;
 		animation-iteration-count: infinite;
 		position: absolute;
 	}
+
+	&:hover * {
+		animation-duration: 0.5s;
+		animation-iteration-count: 1;
+	}	
   
 	.circle-one,
 	.circle-two {
@@ -69,11 +88,11 @@
 		animation-name: line;
 	}
 	
-	// &:hover {
-	// 	.circle-one {animation-name: circle-one;}
-	// 	.circle-two {animation-name: circle-two;}
-	// 	.line {animation-name: line;} 
-	// }
+	&:hover {
+		.circle-one {animation-name: circle-one-hover;}
+		.circle-two {animation-name: circle-two-hover;}
+		.line {animation-name: line-hover;}
+	}
 	
 }
 

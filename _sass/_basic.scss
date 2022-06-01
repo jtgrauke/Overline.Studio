@@ -4,39 +4,116 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-
-@font-face {
-	font-family:'Messina Serif';
-	src: url('/fonts/MessinaSerifWeb-Book.woff2') format('woff2'),
-		 url('/fonts/MessinaSerifWeb-Book.woff') format('woff');
-	font-weight: 400;
-	font-style: normal;
+@keyframes circle-one {
+	0% {top: 0;}
+	45% {top: 0;}
+	55% {top: 16px;}
+	100% {top: 16px;}
+}
+  
+@keyframes circle-two {
+	0% {bottom: 0;}
+	45% {bottom: 0;}
+	55% {bottom: 16px;}
+	100% {bottom: 16px;}
+}
+  
+@keyframes line {
+	0% {transform: rotate(0deg);}
+	45% {transform: rotate(0deg);}
+	55% {transform: rotate(180deg);}
+	100% {transform: rotate(180deg);}
 }
 
-@font-face {
-	font-family:'Messina Serif';
-	src: url('/fonts/MessinaSerifWeb-BookItalic.woff2') format('woff2'),
-		 url('/fonts/MessinaSerifWeb-BookItalic.woff') format('woff');
-	font-weight: 400;
-	font-style: italic;
+@keyframes circle-one-hover {
+	0% {top: 0;}
+	100% {top: 16px;}
+}
+  
+@keyframes circle-two-hover {
+	0% {bottom: 0;}
+	100% {bottom: 16px;}
+}
+  
+@keyframes line-hover {
+	0% {transform: rotate(0deg);}
+	100% {transform: rotate(180deg);}
 }
 
-@font-face {
-	font-family:'Messina Serif';
-	src: url('/fonts/MessinaSerifWeb-SemiBold.woff2') format('woff2'),
-		 url('/fonts/MessinaSerifWeb-SemiBold.woff') format('woff');
-	font-weight: 600;
-	font-style: normal;
+.loader {
+	.overline-mark {
+		.circle-one {
+			animation-name: circle-one-hover;
+			animation-duration: .7s;
+			animation-iteration-count: infinite;
+		}
+		.circle-two {
+			animation-name: circle-two-hover;
+			animation-duration: .7s;
+			animation-iteration-count: infinite;
+		}
+		.line {
+			animation-name: line-hover;
+			animation-duration: .7s;
+			animation-iteration-count: infinite;
+		}
+	}
 }
 
-@font-face {
-	font-family:'Messina Serif';
-	src: url('/fonts/MessinaSerifWeb-SemiBoldItalic.woff2') format('woff2'),
-		 url('/fonts/MessinaSerifWeb-SemiBoldItalic.woff') format('woff');
-	font-weight: 600;
-	font-style: italic;
-}
+.overline-mark {
+	display: block;
+	position: relative;
+	height: 56px;
+	width: 56px;
+	
+	* { 
+		animation-duration: 7s;
+		animation-iteration-count: infinite;
+		position: absolute;
+	}
 
+	&:hover * {
+		animation-duration: 0.5s;
+		animation-iteration-count: 1;
+	}	
+  
+	.circle-one,
+	.circle-two {
+		width: 40px;
+		height: 40px;
+		left: calc(50% - 20px);
+		border: 2px solid #000;
+		border-radius: 24px;
+		display: block;
+	}
+	
+	.circle-one {
+		top: 0;
+		animation-name: circle-one;
+	}
+	
+	.circle-two {
+		bottom: 0;
+		animation-name: circle-two;
+	}
+	
+	.line {
+		width: 56px;
+		top: calc(50% - 1px);
+		left: 0;
+		right: 0;
+		height: 2px;
+		background: #000;
+		animation-name: line;
+	}
+	
+	&:hover {
+		.circle-one {animation-name: circle-one-hover;}
+		.circle-two {animation-name: circle-two-hover;}
+		.line {animation-name: line-hover;}
+	}
+	
+}
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics

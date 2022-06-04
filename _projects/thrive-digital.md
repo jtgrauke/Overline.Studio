@@ -8,3 +8,16 @@ services: Identity, Digital
 featured_image: 'images/projects/thrive/thumbnail.jpg'
 cover_image: 'images/projects/thrive/cover.jpg'
 ---
+
+<div class="span-12 lg-pt2">
+    <img src="{{ '/images/projects/thrive/content-strategy.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 lg-pt2">
+    <img src="{{ '/images/projects/thrive/wireframes.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 md-span-10">
+    <blockquote><span>“</span>JT is collaborative, has an excellent process, and unbelievably great taste, which makes working together both easy and extremely productive.”</blockquote>
+    <p>Brent MacArthur, Co-Founder & CTO at Thrive Digital</p>
+</div>

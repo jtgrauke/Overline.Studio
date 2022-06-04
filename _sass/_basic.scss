@@ -334,37 +334,26 @@ ul, ol {
 }
 
 blockquote {
-	font-family: "Georgia";
-	margin-top: 24px;
+	margin: 1rem 0;
 	font-size: 32px;
 	font-weight: 400;
-	font-style: italic;
-	letter-spacing: 0;
-	line-height: 1.4;
+	letter-spacing: -0.02em;
+	line-height: 1.2;
 	color: $text-dark-color;
 
+
 	@include mq(tabletp) {
-		font-size: 36px;
+		font-size: 44px;
 	}
 
 	@include mq(laptop) {
-		font-size: 40px;
-	}
+		font-size: 56px;
 
-	p {
-		font-size: 32px;
-		font-weight: 400;
-		letter-spacing: 0;
-		line-height: 1.4;
-
-		@include mq(tabletp) {
-			font-size: 36px;
-		}
-
-		@include mq(laptop) {
-			font-size: 40px;
+		span {
+			margin-left: -0.5rem;
 		}
 	}
+
 }
 
 a {
@@ -457,7 +446,7 @@ hr {
 	margin: 40px 0;
 	border: 0;
 	height: 1px;
-	background: $text-light-color;
+	background: $border-color;
 	width: 100%;
 }
 
@@ -485,7 +474,7 @@ body.loading {
 		opacity: 0;
 		visibility: hidden;
 		@include transition(all 0.4s ease-in-out, transform 0s ease-in-out 0.4s);
-		@include translate(0,20px);
+		@include translate(0,5px);
 	}
 
 	.footer {

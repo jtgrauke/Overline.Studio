@@ -47,9 +47,9 @@ layout: default
 			
 			<p class="mb1">Next Up</p>
 			{% if page.previous.url%}
-				<a class="displayLarge" href="{{page.previous.url}}">{{page.previous.title}}</a>
+				<a class="displayLarge" href="{{page.previous.url | relative_url }}">{{page.previous.title}}</a>
 			{% else %}
-				<a class="displayLarge" href="{{site.url}}">All Projects</a>
+				<a class="displayLarge" href="{{site.url | relative_url}}">All Projects</a>
 			{% endif %}
 			
 	  </div>

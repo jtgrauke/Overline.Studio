@@ -185,11 +185,11 @@
 	position: relative;
 
 	&.active-link {
-		color: $text-light-color;
+		color: $text-medium-color;
 	}
 
 	&:hover {
-		color: $text-light-color;
+		color: $text-medium-color;
 	}
 
 	@include mq(tabletl) {

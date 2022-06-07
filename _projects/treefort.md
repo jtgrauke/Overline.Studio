@@ -2,7 +2,8 @@
 layout: project
 title: 'Treefort'
 date: 2021-09-10
-description: Antifragile Content Management
+description: White-label streaming platform
+intro: Treefort is a white-label media streaming platform. We worked with their product development team to establish a UI design system, as well as the dashboard to the content management system.
 services: Digital
 featured_image: '/images/projects/treefort/thumbnail.jpg'
 cover_image: 'images/projects/treefort/cover.jpg'

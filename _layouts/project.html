@@ -14,7 +14,7 @@ layout: default
 
 <section class="intro">
 
-	<div class="wrap">
+	<div class="wrap mt0 sm-mt10 mb10">
 
 		<div class="project-title span-12 md-span-6">
 			<h2 class="displayLarge">{{page.title}}</h2>
@@ -34,4 +34,26 @@ layout: default
 		{{ page.content }}
 	</div>
 
+</section>
+
+<hr />
+
+<section class="project-navigation pb6 mb6">
+
+	<div class="wrap">
+
+		
+		<div class="span-12 sm-span-6 sm-start-7 pb6 text-align-right">
+			
+			<p class="mb1">Next Up</p>
+			{% if page.previous.url%}
+				<a class="displayLarge" href="{{page.previous.url}}">{{page.previous.title}}</a>
+			{% else %}
+				<a class="displayLarge" href="{{site.url}}">All Projects</a>
+			{% endif %}
+			
+	  </div>
+	  
+	</div>
+	
 </section>

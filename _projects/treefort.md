@@ -31,6 +31,14 @@ cover_image: 'images/projects/treefort/cover.jpg'
     <img src="{{ '/images/projects/treefort/content-empty.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 sm-span-6 mt6">
+    <h3 class="displayLarge">Panels</h3>
+</div>
+
+<div class="span-12 sm-span-6 sm-start-7 mt0 sm-mt6">
+    <p>A large aspect of the design system involved creating a system of panels that live on the left and right hand side of the screens. </p>
+</div>
+
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/treefort/style-panels.jpg' | relative_url }}" />
 </div>

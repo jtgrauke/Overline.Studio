@@ -6,7 +6,7 @@
 
 .portfolio {
 
-	@include mq(laptop) {
+	@include mq(tabletl) {
 		margin: -$grid-spacing/2;
 	}
 }
@@ -19,7 +19,7 @@
 		margin-bottom: 0;
 	}
 
-	@include mq(laptop) {
+	@include mq(tabletl) {
 		padding: $grid-spacing/2;
 		float: left;
 		width: 50%;

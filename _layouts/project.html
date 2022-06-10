@@ -4,9 +4,7 @@ layout: default
 
 <section class="project-cover-media">
 	{% if page.cover_video %}
-		<div class="vimeo-container" style="position: relative; padding-top: 56.25%;">
-			<iframe src="{{ page.cover_video }}" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-		</div>
+		<iframe src="{{ page.cover_video }}?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	{% else %}
 		<img src="{{ page.cover_image | relative_url }}" />
 	{% endif %}

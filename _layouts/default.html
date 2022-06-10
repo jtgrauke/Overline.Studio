@@ -111,6 +111,13 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="{{ '/js/plugins-min.js' | relative_url }}"></script>
 	<script src="{{ '/js/duet-min.js' | relative_url }}"></script>
+	<script src="{{ '/js/fitvids-min.js' | relative_url }}"></script>
+	<script>
+		$(document).ready(function(){
+		  // Target your .container, .wrapper, .post, etc.
+		  $(".page__content").fitVids();
+		});
+	  </script>
 
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->

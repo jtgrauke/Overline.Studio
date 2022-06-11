@@ -302,35 +302,7 @@ p, ul, ol {
 }
 
 ul, ol {
-	list-style-position: outside;
-	padding-left: 16px;
-
-	&.checklist {
-		padding-left: 0;
-		display: flex;
-		justify-content: center;
-		flex-direction: column;
-
-		&.checklist-inline {
-			flex-direction: row;
-		}
-
-		li {
-			display: flex;
-			align-items: top;
-			list-style: none;
-			margin-right: 24px;
-			color: $text-dark-color;
-			font-weight: 500;
-			margin-bottom: 8px;
-		
-			&:before {
-				content: url("/images/icons/check.svg");
-				margin-right: 8px;
-				height: 24px;
-			}
-		}
-	}
+	list-style: none;
 }
 
 blockquote {

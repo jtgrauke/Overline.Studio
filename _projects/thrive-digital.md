@@ -25,6 +25,13 @@ cover_video: 'https://player.vimeo.com/video/720048277'
     <img src="{{ '/images/projects/thrive/wireframes.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/thrive/homepage.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/thrive/process.jpg' | relative_url }}" />
+</div>
+
 <div class="span-12 pt2">
     <img src="{{ '/images/projects/thrive/desktop-mock-home.jpg' | relative_url }}" />
 </div>

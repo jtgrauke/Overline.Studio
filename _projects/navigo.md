@@ -52,6 +52,11 @@ cover_video: 'https://player.vimeo.com/video/716406586'
     <img src="{{ '/images/projects/navigo/website.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>Our technical ability combined with your visual talent really creates the ability to deliver on a totally different level.”</blockquote>
+    <p>Benjamin Nieuwsma, CEO at Navigo</p>
+</div>
+
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/mockup.jpg' | relative_url }}" />
 </div>

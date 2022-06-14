@@ -36,6 +36,12 @@ cover_video: 'https://player.vimeo.com/video/720048277'
     <img src="{{ '/images/projects/thrive/desktop-mock-home.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>JT is collaborative, has an excellent process, and unbelievably great taste, which makes working together both easy and extremely productive.”</blockquote>
+    <p>Brent MacArthur, Co-Founder & CTO at Thrive Digital</p>
+</div>
+
+
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/thrive/ui-kit.jpg' | relative_url }}" />
 </div>
@@ -57,9 +63,3 @@ cover_video: 'https://player.vimeo.com/video/720048277'
 <div class="span-12 pt2">
     <img src="{{ '/images/projects/thrive/desktop-designs.jpg' | relative_url }}" />
 </div>
-
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>JT is collaborative, has an excellent process, and unbelievably great taste, which makes working together both easy and extremely productive.”</blockquote>
-    <p>Brent MacArthur, Co-Founder & CTO at Thrive Digital</p>
-</div>
-

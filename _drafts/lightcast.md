@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Lightcast'
-date: 2022-05-27
+date: 2022-06-27
 description: Labor Market Data
 intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with Lexicon Branding to find a new name, they reached out to us to establish a new brand and visual identity.
 services: Identity

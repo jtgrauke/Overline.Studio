@@ -29,6 +29,18 @@ cover_video: 'https://player.vimeo.com/video/716406586'
     <img src="{{ '/images/projects/navigo/logo.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>Our technical ability combined with your visual talent really creates the ability to deliver on a totally different level.”</blockquote>
+    <p>Benjamin Nieuwsma, CEO at Navigo</p>
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/navigo/vest.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/navigo/spy.jpg' | relative_url }}" />
+</div>
+
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/color.jpg' | relative_url }}" />
 </div>
@@ -50,11 +62,6 @@ cover_video: 'https://player.vimeo.com/video/716406586'
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/website.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Our technical ability combined with your visual talent really creates the ability to deliver on a totally different level.”</blockquote>
-    <p>Benjamin Nieuwsma, CEO at Navigo</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">
@@ -82,8 +89,4 @@ cover_video: 'https://player.vimeo.com/video/716406586'
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/country-impacts.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/navigo/trips.jpg' | relative_url }}" />
 </div>

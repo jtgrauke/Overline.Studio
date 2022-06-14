@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
-
+{% if page.cover_image or page.cover_video != '' %}
 <section class="project-cover-media pb0">
 	{% if page.cover_video %}
-		<iframe src="{{ page.cover_video }}?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+		<iframe src="{{ page.cover_video }}?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	{% else %}
 		<img src="{{ page.cover_image | relative_url }}" />
 	{% endif %}
 </section>
+{% endif %}
 
 <section class="intro">
 

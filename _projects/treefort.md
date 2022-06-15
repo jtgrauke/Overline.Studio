@@ -12,7 +12,7 @@ cover_image: 'images/projects/treefort/cover.jpg'
 <hr class="span-12" />
 
 <div class="span-12 md-span-6">
-    <h3 class="displayLarge">Information Architecture</h3>
+    <h3 class="displayLarge">Strategy</h3>
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
@@ -21,10 +21,6 @@ cover_image: 'images/projects/treefort/cover.jpg'
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/treefort/ia.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/treefort/onboarding.jpg' | relative_url }}" />
 </div>
 
 <div class="span-6 pt1 lg-pt2">
@@ -42,8 +38,14 @@ cover_image: 'images/projects/treefort/cover.jpg'
 </div>
 
 <div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/treefort/onboarding.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2 mb10">
     <img src="{{ '/images/projects/treefort/content-empty.jpg' | relative_url }}" />
 </div>
+
+<hr class="span-12" />
 
 <div class="span-12 sm-span-6 mt6">
     <h3 class="displayLarge">Panels</h3>

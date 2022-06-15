@@ -52,14 +52,12 @@
 .menu-toggle {
 	position: absolute;
 	z-index: 10002;
-	top: 50%;
+	top: -16px;
 	right: 0;
-	@include translate(0,-50%);
 	cursor: pointer;
 	font-size: 16px;
-	line-height: 20px;
 	color: $text-dark-color;
-	padding: 16px;
+	padding: 24px;
 	
 	@include mq(tabletl) {
 		display: none;

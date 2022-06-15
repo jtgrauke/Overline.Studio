@@ -78,3 +78,31 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <img src="{{ '/images/projects/populi/illustration-4.jpg' | relative_url }}" />
 </div>
+
+<div class="mb10"></div>
+
+<hr class="span-12" />
+
+<div class="span-12 md-span-6">
+    <h3 class="displayLarge">Interactive</h3>
+</div>
+
+<div class="span-12 md-span-6 md-start-7">
+    <p>Write about it</p>
+</div>
+
+
+<div class="span-12 pt2">
+    <img src="{{ '/images/projects/populi/content.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/populi/home-lofi.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/home-hifi.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt2 mb10">
+    <img src="{{ '/images/projects/populi/hifis.jpg' | relative_url }}" />
+</div>

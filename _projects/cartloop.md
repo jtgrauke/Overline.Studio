@@ -89,6 +89,42 @@ cover_image: 'images/projects/cartloop/cover.jpg'
     <img src="{{ '/images/projects/cartloop/inter.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2 mb10">
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/cartloop/visual-language.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/cartloop/photography-1.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/photography-2.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/cartloop/photography-3.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/photography-4.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/product.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/cartloop/illustration-1.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/illustration-2.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/cartloop/illustration-3.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/illustration-4.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/cartloop/website.jpg' | relative_url }}" />
 </div>

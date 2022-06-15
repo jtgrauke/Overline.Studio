@@ -35,6 +35,10 @@ cover_image: 'images/projects/cartloop/cover.jpg'
     <img src="{{ '/images/projects/cartloop/summary.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>The exploration meetings were so well thought-out and brought a lot of insights into why, what and how Cartloop should be/look like.”</blockquote>
+    <p>Lisa Popovici, Co-Founder at Cartloop</p>
+</div>
 
 <hr class="span-12" />
 
@@ -87,6 +91,11 @@ cover_image: 'images/projects/cartloop/cover.jpg'
 </div>
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <img src="{{ '/images/projects/cartloop/inter.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>I was very inspired by your way of working. You guys were very professional, punctual, organized, always had clear agenda for every single meeting, and that increased our trust a lot. We're extremely happy with the results.”</blockquote>
+    <p>Lisa Popovici, Co-Founder at Cartloop</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">

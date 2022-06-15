@@ -9,10 +9,6 @@ featured_image: '/images/projects/cartloop/thumbnail.jpg'
 cover_image: 'images/projects/cartloop/cover.jpg'
 ---
 
-<div class="span-12 md-span-6 md-start-7">
-    
-</div>
-
 <hr class="span-12" />
 
 <div class="span-12 md-span-6">

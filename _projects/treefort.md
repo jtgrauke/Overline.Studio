@@ -9,7 +9,21 @@ featured_image: '/images/projects/treefort/thumbnail.jpg'
 cover_image: 'images/projects/treefort/cover.jpg'
 ---
 
-<div class="span-12">
+<hr class="span-12" />
+
+<div class="span-12 md-span-6">
+    <h3 class="displayLarge">Information Architecture</h3>
+</div>
+
+<div class="span-12 md-span-6 md-start-7">
+    <p>While growing an e-commerce brand, companies often automate much of the business. But along the way, they lose the human touch. They lose a key part of what originally made us successful: a meaningful connection with their customers.</p>
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/treefort/ia.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/treefort/onboarding.jpg' | relative_url }}" />
 </div>
 

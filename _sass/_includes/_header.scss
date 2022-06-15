@@ -53,12 +53,13 @@
 	position: absolute;
 	z-index: 10002;
 	top: 50%;
-	right: 16px;
+	right: 0;
 	@include translate(0,-50%);
 	cursor: pointer;
 	font-size: 16px;
 	line-height: 20px;
 	color: $text-dark-color;
+	padding: 16px;
 	
 	@include mq(tabletl) {
 		display: none;
@@ -70,7 +71,6 @@
 	position: relative;
 	width: 24px;
 	height: 20px;
-	margin-left: 8px;
 
 	span, span:before, span:after {
 		content: '';
@@ -152,6 +152,7 @@
 	margin: 0 auto;
 	max-width: 100%;
 	padding-top: 16px;
+	padding-left: 16px;
 
 	@include mq(tabletp) {
 		padding: 40px 40px 0;
@@ -178,7 +179,7 @@
 }
 
 .menu-list-item-link {
-	font-size: 32px;
+	font-size: 56px;
 	line-height: 1.25;
 	color: $text-dark-color;
 	letter-spacing: -0.02em;

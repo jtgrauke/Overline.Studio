@@ -20,7 +20,7 @@ cover_image: 'images/projects/cartloop/cover.jpg'
     <p>This sentiment was vital to the foundation of the Cartloop brand strategy. Through our workshop together and subsequent conversations, we uncovered the need to highlight human connection as a key differentiator. To embody this, we hit upon "Be Good to Your Customers," as a rallying cry for both an internal and external focus.</p>
 </div>
 
-<div class="span-12 pt2">
+<div class="span-12 pt1">
     <img src="{{ '/images/projects/cartloop/tagline.jpg' | relative_url }}" />
 </div>
 
@@ -31,7 +31,7 @@ cover_image: 'images/projects/cartloop/cover.jpg'
     <img src="{{ '/images/projects/cartloop/chatbox.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt2 mb10">
+<div class="span-12 pt1 lg-pt2 mb10">
     <img src="{{ '/images/projects/cartloop/summary.jpg' | relative_url }}" />
 </div>
 

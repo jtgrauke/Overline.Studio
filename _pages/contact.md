@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-featured_image: /images/social.jpg
+featured_image: '/images/social.jpg'
 ---
 
 <section>

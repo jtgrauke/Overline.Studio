@@ -2,7 +2,7 @@
 layout: default
 title: About
 description: Overline is a brand and UI design studio. We use brand strategy, visual identity, and digital design to help organizations evolve through times of growth.
-featured_image: /images/social.jpg
+featured_image: '/images/social.jpg'
 ---
 
 <section>

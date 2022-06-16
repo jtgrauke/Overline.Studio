@@ -46,20 +46,26 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 <hr class="span-12" />
 
 <div class="span-12 md-span-6">
-    <h3 class="displayLarge">Identity</h3>
+    <h3 class="displayLarge">Visual Identity</h3>
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>Write about it</p>
+    <p>The Populi identity had always been simple, and that was something we sought to retain. However, much of that was due to a lack of focus, and more energy put into building a great product. The biggest change was to the Populi logo itself, but we retained a familiar color and overall feel.</p>
 </div>
 
-
-<div class="span-12 pt2">
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/populi/logo.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt2">
-    <img src="{{ '/images/projects/populi/color.jpg' | relative_url }}" />
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/business-cards.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/stationery.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+     <img src="{{ '/images/projects/populi/color-wheel.jpg' | relative_url }}" />
 </div>
 
 <div class="span-12 sm-span-6 pt1 lg-pt2">
@@ -67,21 +73,6 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <img src="{{ '/images/projects/populi/dm-sans.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 pt2 mb10">
-    <img src="{{ '/images/projects/populi/stationery.jpg' | relative_url }}" />
-</div>
-
-
-<hr class="span-12" />
-
-<div class="span-12 md-span-6">
-    <h3 class="displayLarge">Illustration</h3>
-</div>
-
-<div class="span-12 md-span-6 md-start-7">
-    <p>Write about it</p>
 </div>
 
 <div class="span-12 sm-span-6 pt1 lg-pt2">
@@ -95,6 +86,14 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <img src="{{ '/images/projects/populi/illustration-4.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/ooh.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/poster.jpg' | relative_url }}" />
 </div>
 
 <div class="mb10"></div>

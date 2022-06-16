@@ -79,15 +79,3 @@ cover_video: 'https://player.vimeo.com/video/716406586'
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/flags.jpg' | relative_url }}" />
 </div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/navigo/chat.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/navigo/explore-countries.jpg' | relative_url }}" />
-</div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/navigo/country-impacts.jpg' | relative_url }}" />
-</div>

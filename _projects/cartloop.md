@@ -1,8 +1,9 @@
 ---
 layout: project
 title: 'Cartloop'
+subtitle: 'Conversational text marketing'
 date: 2021-08-31
-description: Conversational text marketing
+description: Cartloop Brand Identity by Overline Studio
 intro: Cartloop is an ecommerce startup that's changing the way people interact with brands. Instead of automated messages (or chat bots), Cartloop is helping brands grow by creating super-personalized experiences throughout the entire shopping journey. We worked with Cartloop to create a new brand strategy and visual identity. We also created a unique visual language that would scale across various touchpoints like website, illustrations, and social media. <p>Collaborators&#x3a; <a target="_blank" href="https://studiomightymighty.com/">Ryan Harrison</a></p>
 services: Strategy, Identity
 featured_image: '/images/projects/cartloop/thumbnail.jpg'

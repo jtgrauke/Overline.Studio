@@ -9,7 +9,7 @@ featured_image: /images/social.jpg
 
 	<div class="wrap">
 
-		<div class="span-12 lg-span-10 mt10 pt10 sm-mb6">
+		<div class="span-12 lg-span-10 mt8 pt10 sm-mb6">
 			<h2 class="displayXLarge">As organizations grow, design suffers. We help people gain certainty in their brand and products through strategy, visual identity, and digital design.</h2>
         </div>
 

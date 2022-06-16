@@ -1,8 +1,9 @@
 ---
 layout: project
 title: 'Maddox'
+subtitle: 'Transformers. Fast. Easy.'
 date: 2022-03-31
-description: Top Quality Transformers
+description: Maddox Brand Identity by Overline Studio
 intro: Maddox produces and stocks the highest quality fully reconditioned and new transformers available on the market. Founded by a team of industry veterans, Maddox is focused exclusively on the transformer and transformer-related needs of industrial and commercial clients. We worked with the Maddox team to refresh their visual identity, establish a bold visual language, and design a new marketing and e-commerce website.
 services: Identity, Digital
 featured_image: '/images/projects/maddox/thumbnail.jpg'

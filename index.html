@@ -15,37 +15,22 @@ featured_image: '/images/social.jpg'
 </section>
 
 <section>
-
 	<div class="wrap">
-
-
-		<h3 class="displayMedium span-12">Recent Work</h3>
 		<div class="portfolio span-12">
-
 			{% for project in site.projects reversed %}
-
 			<div class="portfolio-item">
-
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
-
 					<div class="portfolio-item__image">
 						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
 					</div>
-
 					<div class="portfolio-item__content">
 						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
 						<h3 class="portfolio-item__subtitle displayMedium">{{ project.subtitle }}</h3>
 						<p class="portfolio-item__services caption">{{ project.services }}</p>
 					</div>
-
 				</a>
-
 			</div>
-
 			{% endfor %}
-			
 		</div>
-
 	</div>
-
 </section>

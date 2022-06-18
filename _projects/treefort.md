@@ -17,7 +17,7 @@ cover_image: 'images/projects/treefort/cover.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>While growing an e-commerce brand, companies often automate much of the business. But along the way, they lose the human touch. They lose a key part of what originally made us successful: a meaningful connection with their customers.</p>
+    <p>We worked with the Treefort team to establish some early design patterns that would allow them to create something that felt familiar and intuitive. Our aim was to build a library of components that could then be used for managing content within apps. They were in early stages so it was most important that we help design at the atomic level vs whole sections and pages of the dashboard.</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">
@@ -53,16 +53,17 @@ cover_image: 'images/projects/treefort/cover.jpg'
 </div>
 
 <div class="span-12 sm-span-6 sm-start-7 mt0 sm-mt6">
-    <p>A large aspect of the design system involved creating a system of panels that live on the left and right hand side of the screens. </p>
+    <p>We hit upon a design pattern that we referred to as Panels. These played a heavy role within the Design section of the site, where managers of content would be able to see what elements they had available, configure them, and manage the scheduling of publishing.</p>
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/treefort/style-ui.jpg' | relative_url }}" />
 </div>
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/treefort/style-panels.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/treefort/style-ui.jpg' | relative_url }}" />
-</div>
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/treefort/pages-panels.jpg' | relative_url }}" />

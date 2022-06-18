@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% if page.cover_image or page.cover_video != '' %}
 <section class="project-cover-media pb0">
 	{% if page.cover_video %}
@@ -12,47 +13,98 @@ layout: default
 {% endif %}
 
 <section class="intro">
-
 	<div class="wrap mt0 sm-mt10 mb10">
-
 		<div class="project-title span-12 md-span-6">
 			<h2 class="displayXLarge">{{page.title}}</h2>
 		</div>
-
 		<div class="project-intro span-12 md-span-6 md-start-7 md-mt2">
 			<p>{{ page.intro }}</p>
 		</div>
-		
 	</div>
-
 </section>
 
 <section class="content mb10">
-
 	<div class="wrap">
 		{{ page.content }}
 	</div>
-
 </section>
 
 <hr />
 
-<section class="project-navigation pb6 mb6">
-
+<section class="project-navigation">
 	<div class="wrap">
-
-		
-		<div class="span-12 sm-span-6 sm-start-7 pb6 text-align-right">
-			
-			<p class="mb1">Next Up</p>
-			{% if page.previous.url%}
-				<a class="displayLarge" href="{{page.previous.url | relative_url }}">{{page.previous.title}}</a>
-			{% else %}
-				<a class="displayLarge" href="{{ site.url | relative_url}}">All Projects</a>
-			{% endif %}
-			
-	  </div>
-	  
-	</div>
-	
+		<p class="span-12 mb10">Next Up</p>
+		<div class="portfolio span-12">
+			<div class="portfolio-item">
+				{% if page.previous.url %}
+				<a class="portfolio-item__link" href="{{ page.previous.url | relative_url }}">
+					<div class="portfolio-item__image">
+						<img src="{{ page.previous.featured_image | relative_url }}" alt="{{ page.previous.title }}">
+					</div>
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ page.previous.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ page.previous.subtitle }}</h3>
+						<p class="portfolio-item__services caption">{{ page.previous.services }}</p>
+					</div>
+				</a>
+				{% else %}
+				{% assign post_count = site.projects | size | minus: 1 %}
+				{% for project in site.projects offset: post_count limit: 1 %}
+				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+					<div class="portfolio-item__image">
+						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					</div>
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ project.subtitle }}</h3>
+						<p class="portfolio-item__services caption">{{ project.services }}</p>
+					</div>
+				</a>
+				{% endfor %}
+				{% endif %}
+			</div>
+			<div class="portfolio-item">
+				{% if page.previous.previous.url %}
+				<a class="portfolio-item__link" href="{{ page.previous.previous.url | relative_url }}">
+					<div class="portfolio-item__image">
+						<img src="{{ page.previous.previous.featured_image | relative_url }}" alt="{{ page.previous.previous.title }}">
+					</div>
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ page.previous.previous.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ page.previous.previous.subtitle }}</h3>
+						<p class="portfolio-item__services caption">{{ page.previous.previous.services }}</p>
+					</div>
+				</a>
+				{% elsif page.previous.url %}
+				{% assign post_count = site.projects | size | minus: 1 %}
+				{% for project in site.projects offset: post_count limit: 1 %}
+				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+					<div class="portfolio-item__image">
+						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					</div>
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ project.subtitle }}</h3>
+						<p class="portfolio-item__services caption">{{ project.services }}</p>
+					</div>
+				</a>
+				{% endfor %}
+				{% else %}
+				{% assign post_count = site.projects | size | minus: 2 %}
+				{% for project in site.projects offset: post_count limit: 1 %}
+				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+					<div class="portfolio-item__image">
+						<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					</div>
+					<div class="portfolio-item__content">
+						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ project.subtitle }}</h3>
+						<p class="portfolio-item__services caption">{{ project.services }}</p>
+					</div>
+				</a>
+				{% endfor %}
+				{% endif %}
+			</div>
+		</div>
+  	</div>
 </section>

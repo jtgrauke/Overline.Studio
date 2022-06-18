@@ -4,7 +4,7 @@ title: 'Populi'
 subtitle: Focus on teaching, not technology
 date: 2021-06-30
 description: Populi Brand and Website by Overline Studio
-intro: Populi is a fully hosted, web-based college information management system. Since 2007, they've worked with hundreds of schools to run more efficiently and offer a better education experience to their students. We worked with them to redesign their brand identity, establish a new visual language, as well as a new marketing website.
+intro: Populi is a fully hosted, web-based college information management system. Since 2007, they've worked with hundreds of schools to run more efficiently and offer a better education experience to their students. We worked with them to redesign their brand identity, establish a new visual language, as well as a new marketing website. <p>Collaborators&#x3a; <a target="_blank" href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a></p>
 services: Strategy, Identity, Digital
 featured_image: '/images/projects/populi/thumbnail.jpg'
 cover_image: ''
@@ -92,11 +92,9 @@ cover_video: 'https://player.vimeo.com/video/720422079'
     <img src="{{ '/images/projects/populi/ooh.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2">
+<div class="span-12 pt1 lg-pt2 mb10">
     <img src="{{ '/images/projects/populi/poster.jpg' | relative_url }}" />
 </div>
-
-<div class="mb10"></div>
 
 <hr class="span-12" />
 
@@ -105,9 +103,8 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>Write about it</p>
+    <p>The Populi website needed to be simple and clear. Here the language work we had done before started to take shape in straightforward headlines. The clean aesthetic we established in the identity along with illustrations by Samuel Dickison made for a really pleasing experience.</p>
 </div>
-
 
 <div class="span-12 pt2">
     <img src="{{ '/images/projects/populi/content.jpg' | relative_url }}" />
@@ -120,6 +117,32 @@ cover_video: 'https://player.vimeo.com/video/720422079'
     <img src="{{ '/images/projects/populi/home-hifi.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt2 mb10">
+<div class="span-12 pt2">
     <img src="{{ '/images/projects/populi/hifis.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <iframe src="https://player.vimeo.com/video/720422079?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Populi Website"></iframe>
+</div>
+
+<div class="span-12 pt2 mb10">
+    <img src="{{ '/images/projects/populi/website.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <iframe src="https://player.vimeo.com/video/721737891?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Populi Features"></iframe>
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/tablet.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 pt2">
+    <img src="{{ '/images/projects/populi/integrations.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/populi/mobile-mock.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/plant-illustration.jpg' | relative_url }}" />
 </div>

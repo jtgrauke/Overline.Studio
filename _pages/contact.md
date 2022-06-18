@@ -13,7 +13,7 @@ featured_image: '/images/social.jpg'
 		</div>
 
 		<div class="span-12 sm-span-6 sm-start-7">
-            <p>Contact Info</p>
+            <p>Interested in working with us on a project? We would love to see it. Please reach out to JT Grauke <a href="mailto:jt@overline.studio">here</a>, and we'll schedule a time to meet and discuss your project.</p>
         </div>            
 
 	</div>

@@ -24,7 +24,7 @@ featured_image: '/images/social.jpg'
 	<div class="wrap mb10">
 
 		<div class="span-12 md-span-6">
-			<h2 class="displayLarge mb2">Services</h2>
+			<h2 class="displayMedium mb3">Services</h2>
 			<ul class="displayMedium mb6">
 				
 				<li>Brand Strategy</li>
@@ -55,7 +55,7 @@ featured_image: '/images/social.jpg'
 	<div class="wrap">
 
 		<div class="span-12 mb2">
-			<h2 class="displayLarge mb3">Team</h2>
+			<h2 class="displayMedium mb3">Team</h2>
 		</div>
 
 		<div class="span-12 sm-span-6 mb6">

@@ -25,7 +25,7 @@ featured_image: '/images/social.jpg'
 
 		<div class="span-12 md-span-6">
 			<h2 class="displayLarge mb2">Services</h2>
-			<ul class="displayMedium">
+			<ul class="displayMedium mb6">
 				
 				<li>Brand Strategy</li>
 				<li>Naming</li>

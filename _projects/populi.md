@@ -19,7 +19,7 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>We began with a series of discussions with key team members to identify which of Populi’s attributes were most important. We also began verbalize how Populi helps customers go from where they are to where they want to be.</p>
+    <p>We began with a series of discussions with key team members to identify which of Populi’s attributes were most important. We also began to verbalize how Populi helps customers go from where they are to where they want to be.</p>
     <p>It was through these discussions that we landed on a few key alliterative phrases: Focus on teaching, not technology. Focus on the future, not features. Focus on serving, not software.</p>
 </div>
 
@@ -39,7 +39,7 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>You made the process of discovery fun. It's like we went going on an adventure together to discover who we are, and our brand emerged from that.”</blockquote>
+    <blockquote><span>“</span>You made the process of discovery fun. It's like we went on an adventure together to discover who we are, and our brand emerged from that.”</blockquote>
     <p>Isaac Grauke, CEO of Populi</p>
 </div>
 
@@ -55,6 +55,13 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/populi/logo.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/populi/logo-before.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+     <img src="{{ '/images/projects/populi/logo-after.jpg' | relative_url }}" />
 </div>
 
 <div class="span-12 pt1 lg-pt2">

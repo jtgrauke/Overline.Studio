@@ -18,7 +18,7 @@ cover_video: 'https://player.vimeo.com/video/720048277'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>Thrive Digital is not your average ad agency. They have a paradoxical tension between thier systematic and scientific processes, and their very personable and flexible team.</p>
+    <p>Thrive Digital is not your average ad agency. They have a paradoxical tension between their systematic and scientific processes, and their very personable and flexible team.</p>
     <p>We captured this early on in strategy, and found ways to weave this in. From the design of the site, to the orientation around simple case studies that highlighted their results, we helped position Thrive as the powerhouse that they are.</p>
     <p>Collaboration happened at every step of the process, from content briefs in Google Docs, to tweaking content intent in Figma comments, we worked together to craft their story.</p>
 </div>

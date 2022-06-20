@@ -4,7 +4,7 @@ title: 'Bobtail'
 subtitle: 'Keep the cash flowing'
 date: 2021-05-20
 description: Bobtail Brand Identity by Overline Studio
-intro: Bobtail is on a mission to deliver freedom from inefficiencies in the supply chain and make people happy. We worked with the founders to align on brand attributes that reflected their outlook on the future. Through a cheerful color palette, clean illustrations, and photos of real truckers on the job, the brand has a optimistic tone that reflects their vision of frictionless supply chain.
+intro: Bobtail is on a mission to deliver freedom from inefficiencies in the supply chain and make people happy. We worked with the founders to align on brand attributes that reflected their outlook on the future. Through a cheerful color palette, clean illustrations, and photos of real truckers on the job, the brand has a optimistic tone that reflects their vision of a frictionless supply chain.
 services: Identity, Digital
 featured_image: 'images/projects/bobtail/thumbnail.jpg'
 cover_image: 'images/projects/bobtail/cover.jpg'

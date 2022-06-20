@@ -17,7 +17,7 @@ cover_image: 'images/projects/cartloop/cover.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>While growing an e-commerce brand, companies often automate much of the business. But along the way, they lose the human touch. They lose a key part of what originally made us successful: a meaningful connection with their customers.</p>
+    <p>While growing an e-commerce brand, companies often automate much of the business. But along the way, they lose the human touch. They lose a key part of what originally made them successful: a meaningful connection with their customers.</p>
     <p>This sentiment was vital to the foundation of the Cartloop brand strategy. Through our workshop together and subsequent conversations, we uncovered the need to highlight human connection as a key differentiator. To embody this, we hit upon "Be Good to Your Customers," as a rallying cry for both an internal and external focus.</p>
 </div>
 

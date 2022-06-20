@@ -17,7 +17,7 @@ cover_image: '/images/projects/maddox/social.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>Maddox has hit upon a simple value in the market, and they've had the discipline to maintain that focus. Our goal with the refresh of their identity was to dial everything rather than reinvent the wheel. We kept things simple and focused.</p>
+    <p>Maddox has hit upon a simple value in the market, and they've had the discipline to maintain that focus. Our goal with the refresh of their identity was to dial in everything rather than reinvent the wheel. We kept things simple and focused.</p>
 </div>
 
 <div class="span-12 pt1">
@@ -81,7 +81,8 @@ cover_image: '/images/projects/maddox/social.jpg'
 
 <div class="span-12 md-span-6 md-start-7">
     <p>The visual language really brings the brand to life through color, typography, photos, and illustrations.</p>
-    <p>Inspired by the industrial feel of the orange, we honed in the hues, and established a secondary palette inspired by Padmount transformers. Trim Poster, Suisse Int'l, and Latin Modern Mono create a perfect pairing. The bold headlines carry a rugged dependability, while the swiss feel of the layouts and type reads like classic industrial manuals.</p>
+    <p>Inspired by the industrial feel of the orange, we honed in the hues, and established a secondary palette inspired by Padmount transformers. </p>
+    <p>Trim Poster, Suisse Int'l, and Latin Modern Mono create a perfect pairing. The bold headlines carry a rugged dependability, while the swiss feel of the layouts and type reads like classic industrial manuals.</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">

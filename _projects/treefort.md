@@ -48,11 +48,11 @@ cover_image: 'images/projects/treefort/cover.jpg'
 
 <hr class="span-12" />
 
-<div class="span-12 sm-span-6 mt6">
+<div class="span-12 sm-span-6">
     <h3 class="displayLarge">Panels</h3>
 </div>
 
-<div class="span-12 sm-span-6 sm-start-7 mt0 sm-mt6">
+<div class="span-12 sm-span-6 sm-start-7 mt0">
     <p>We hit upon a design pattern that we referred to as Panels. These played a heavy role within the Design section of the site, where managers of content would be able to see what elements they had available, configure them, and manage the scheduling of publishing.</p>
 </div>
 

@@ -92,7 +92,3 @@ cover_video: 'https://player.vimeo.com/video/716406586'
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <img src="{{ '/images/projects/navigo/tote.jpg' | relative_url }}" />
 </div>
-
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/navigo/flags.jpg' | relative_url }}" />
-</div>

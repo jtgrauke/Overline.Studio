@@ -1,13 +1,14 @@
 ---
 layout: project
 title: 'Lightcast'
-date: 2022-06-27
-description: Labor Market Data
+subtitle: 'Labor Market Experts'
+date: 2022-06-21
+description: Lightcast Brand Identity by Overline Studio
 intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with Lexicon Branding to find a new name, they reached out to us to establish a new brand and visual identity.
-services: Identity
-featured_image: '/images/projects/lightcast/thumbnail.jpg'
-cover_image: ''
+services: Identity, Digital
+featured_image: 'images/projects/lightcast/thumbnail.jpg'
 cover_video: 'https://player.vimeo.com/video/719170323'
+cover_image: 'images/projects/lightcast/cover.jpg'
 ---
 
 <hr class="span-12" />
@@ -72,7 +73,6 @@ cover_video: 'https://player.vimeo.com/video/719170323'
 <div class="span-4 start-9 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/illustration-3.jpg' | relative_url }}" />
 </div>
-
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/billboard.jpg' | relative_url }}" />

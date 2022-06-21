@@ -8,7 +8,7 @@ intro: Thrive Digital is a performance marketing agency located in Vancouver, Ca
 services: Identity, Digital
 featured_image: 'images/projects/thrive/thumbnail.jpg'
 cover_image: 'images/projects/thrive/cover.jpg'
-cover_video: 'https://player.vimeo.com/video/720048277'
+cover_video: 'https://player.vimeo.com/video/722603322'
 ---
 
 <hr class="span-12" />
@@ -81,6 +81,11 @@ cover_video: 'https://player.vimeo.com/video/720048277'
     <img src="{{ '/images/projects/thrive/illustration.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 pt1 lg-pt2">
+    <iframe src="https://player.vimeo.com/video/720048277?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Thrive Homepage on iPad"></iframe>
+</div>
+
 <div class="span-12 pt2">
     <img src="{{ '/images/projects/thrive/desktop-designs.jpg' | relative_url }}" />
 </div>
+

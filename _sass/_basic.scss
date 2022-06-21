@@ -323,7 +323,7 @@ blockquote {
 		font-size: 56px;
 
 		span {
-			margin-left: -0.5rem;
+			margin-left: -1rem;
 		}
 	}
 
@@ -332,6 +332,14 @@ blockquote {
 a {
 	text-decoration: none;
 	color: $text-dark-color;
+
+	&.link-affordance {
+		text-decoration: underline;
+
+		&:hover {
+			text-decoration: none;
+		}
+	}
 
 	&:hover {
 		color: $text-medium-color;

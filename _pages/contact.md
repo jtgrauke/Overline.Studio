@@ -8,12 +8,13 @@ featured_image: '/images/social.jpg'
 
 	<div class="wrap pt6 mt6 pb6 mb6">
 
-		<div class="span-12 sm-span-6">
+		<div class="span-12 sm-span-6 mb3">
 			<h2 class="displayLarge">Contact</h2>
 		</div>
 
 		<div class="span-12 sm-span-6 sm-start-7">
-            <p>Interested in working with us on a project? We would love to see it. Please reach out to JT Grauke <a href="mailto:jt@overline.studio">here</a>, and we'll schedule a time to meet and discuss your project.</p>
+            <h3 class="displayLarge">Interested in working with us on a project?<br class="mobile-hide"> Please <a target="_blank" class="link-affordance" href="https://calendly.com/jtgrauke/intro?month=2022-06">schedule an intro call</a> with JT.</h3>
+			<p>For any other inquiries, please email <a href="mailto:jt@overline.studio">jt@overline.studio</a></p>
         </div>            
 
 	</div>

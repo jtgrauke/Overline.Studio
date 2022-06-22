@@ -132,7 +132,7 @@ cover_video: 'https://player.vimeo.com/video/720422079'
     <iframe src="https://player.vimeo.com/video/720422079?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Populi Website"></iframe>
 </div>
 
-<div class="span-12 pt2 mb10">
+<div class="span-12 pt2">
     <img src="{{ '/images/projects/populi/website.jpg' | relative_url }}" />
 </div>
 
@@ -144,7 +144,7 @@ cover_video: 'https://player.vimeo.com/video/720422079'
 </div>
 
 <div class="span-12 pt2">
-    <img src="{{ '/images/projects/populi/integrations.jpg' | relative_url }}" />
+    <img src="{{ '/images/projects/populi/connect.jpg' | relative_url }}" />
 </div>
 
 <div class="span-12 sm-span-6 pt1 lg-pt2">

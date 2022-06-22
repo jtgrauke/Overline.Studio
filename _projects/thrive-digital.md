@@ -8,7 +8,7 @@ intro: Thrive Digital is a performance marketing agency located in Vancouver, Ca
 services: Identity, Digital
 featured_image: 'images/projects/thrive/thumbnail.jpg'
 cover_image: 'images/projects/thrive/cover.jpg'
-cover_video: 'https://player.vimeo.com/video/722603322'
+cover_video: 'https://player.vimeo.com/video/723042126'
 ---
 
 <hr class="span-12" />

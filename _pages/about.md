@@ -10,7 +10,7 @@ featured_image: '/images/social.jpg'
 	<div class="wrap">
 
 		<div class="span-12 lg-span-6 mt8 pt6 mb10">
-			<h2 class="displayLarge">As organizations grow, design suffers. <br class="mobile-hide"> We help people use design to gain clarity, confidence, and grow your bottom line.</h2>
+			<h2 class="displayLarge">As organizations grow, design suffers. <br class="mobile-hide"> We help you use design to gain clarity, confidence, and grow your bottom line.</h2>
         </div>
 
 	</div>

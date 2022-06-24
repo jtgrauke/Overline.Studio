@@ -21,7 +21,7 @@ featured_image: '/images/social.jpg'
 
 <section>
 
-	<div class="wrap mb10">
+	<div class="wrap mb2">
 
 		<div class="span-12 md-span-6">
 			<h2 class="displayMedium mb3">Services</h2>

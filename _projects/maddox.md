@@ -2,7 +2,7 @@
 layout: project
 title: 'Maddox'
 subtitle: 'Commercial & Industrial Transformers'
-date: 2022-03-31
+date: 2022-07-25
 description: Maddox Brand Identity by Overline Studio
 intro: Maddox produces and stocks the highest quality fully reconditioned and new transformers available on the market. Founded by a team of industry veterans, Maddox is focused exclusively on the transformer and transformer-related needs of industrial and commercial clients. We worked with the Maddox team to refresh their visual identity, establish a bold visual language, and design a new marketing and e-commerce website.
 services: Identity, Digital
@@ -62,6 +62,10 @@ cover_image: '/images/projects/maddox/social.jpg'
     <img src="{{ '/images/projects/maddox/lockup.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/maddox/tee-black.jpg' | relative_url }}" />
+</div>
+
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/maddox/lockup-wide.jpg' | relative_url }}" />
 </div>
@@ -69,8 +73,15 @@ cover_image: '/images/projects/maddox/social.jpg'
     <img src="{{ '/images/projects/maddox/lockup-stacked.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2 mb10">
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/maddox/panel.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/maddox/tee-folded.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb10">
+    <img src="{{ '/images/projects/maddox/tee-hanging.jpg' | relative_url }}" />
 </div>
 
 <hr class="span-12" />

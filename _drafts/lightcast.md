@@ -4,7 +4,7 @@ title: 'Lightcast'
 subtitle: 'Labor Market Experts'
 date: 2022-06-21
 description: Lightcast Brand Identity by Overline Studio
-intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with Lexicon Branding to find a new name, they reached out to us to establish a new brand and visual identity.
+intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with <a target="_blank" href="https://www.lexiconbranding.com/">Lexicon Branding</a> to find a new name, they reached out to us to establish a new brand and visual identity.
 services: Identity, Digital
 featured_image: 'images/projects/lightcast/thumbnail.jpg'
 cover_video: 'https://player.vimeo.com/video/719170323'
@@ -13,37 +13,52 @@ cover_image: 'images/projects/lightcast/cover.jpg'
 
 <hr class="span-12" />
 
-<div class="span-6 pt1 lg-pt2">
-     <img src="{{ '/images/projects/lightcast/logo-before.jpg' | relative_url }}" />
-</div>
-<div class="span-6 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/logo-after.jpg' | relative_url }}" />
+<div class="span-12 md-span-6">
+    <h3 class="displayLarge">Strategy</h3>
 </div>
 
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/tessell-construction.jpg' | relative_url }}" />
+<div class="span-12 md-span-6 md-start-7">
+    <p>Lightcast has been hard at work for over two decades capturing and clarifying data that helps communities prosper. Their mission is to drive economic prosperity and mobility by providing the insights needed to build and develop people, institutions, companies, and communities.</p>
+    <p>Through our workshops and conversations, we agreed that this new identity should feel bright and optimistic. Lightcast is a humble, yet impactful partner, so we sought to capture a sense of hope, and inspiration that often is kindled in their customers.</p>
 </div>
 
-<div class="span-12 sm-span-6 pt1 lg-pt2 lg-mb10">
-    <h3 class="displayMedium mb6">The Tessell</h3>
-    <p>Tessellation describes a pattern of repeated shapes, especially polygons, that fit together closely without gaps or overlaps. The Lightcast mark, the "Tessell" uses 0º, 90º, and 45º angles that reveal two repeating polygons. The second polygon is taller, symbolizing the idea of progress.</p>
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/lightcast/workshop.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/lightcast/stickies.jpg' | relative_url }}" />
+</div>
+
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/lightcast/attributes.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 pt1 lg-pt2 mb10">
+    <img src="{{ '/images/projects/lightcast/l-frame.jpg' | relative_url }}" />
+</div>
+
+<hr class="span-12" />
+
+<div class="span-12 md-span-6">
+    <h3 class="displayLarge">Identity</h3>
+</div>
+
+<div class="span-12 md-span-6 md-start-7">
+    <p>The identity for Lightcast tells a story of partnership and growth. The logomark, coined the "Tessell" after tessallation, reveals two repeating polygons. The two together indicate the partnership Lightcast brings to their customers, and the second shape being taller indicates the idea of upward momentum.</p>
     <p>Progress is the process, prosperity is the destination.</p>
 </div>
 
-<div class="span-12 sm-span-6 pt1 lg-pt2 mb0 lg-mb10">
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/wall-sign.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/wood-wall.jpg' | relative_url }}" />
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/lightcast/wood-wall.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/lightcast/tessell-gradient.jpg' | relative_url }}" />
 </div>
 
-<div class="span-6 pt1 lg-pt2">
-     <img src="{{ '/images/projects/lightcast/attributes.jpg' | relative_url }}" />
-</div>
-<div class="span-6 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/l-frame.jpg' | relative_url }}" />
-</div>
+
 
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/business-cards.jpg' | relative_url }}" />

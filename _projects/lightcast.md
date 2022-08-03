@@ -108,6 +108,13 @@ cover_image: 'images/projects/lightcast/cover.jpg'
     <img src="{{ '/images/projects/lightcast/deck.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/lightcast/illustration-2.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+    <img src="{{ '/images/projects/lightcast/blog-style.jpg' | relative_url }}" />
+</div>
+
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/web.jpg' | relative_url }}" />
 </div>

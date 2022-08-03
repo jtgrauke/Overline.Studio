@@ -2,7 +2,7 @@
 layout: project
 title: 'Lightcast'
 subtitle: 'Labor Market Experts'
-date: 2022-06-21
+date: 2022-08-02
 description: Lightcast Brand Identity by Overline Studio
 intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with <a target="_blank" href="https://www.lexiconbranding.com/">Lexicon Branding</a> to find a new name, they reached out to us to establish a new brand and visual identity.
 services: Identity, Digital
@@ -58,34 +58,37 @@ cover_image: 'images/projects/lightcast/cover.jpg'
     <img src="{{ '/images/projects/lightcast/tessell-gradient.jpg' | relative_url }}" />
 </div>
 
-
-
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/business-cards.jpg' | relative_url }}" />
 </div>
 
-<hr class="span-12 mt10" />
-<div class="span-12 sm-span-6 pt1 lg-pt2 lg-mb10">
-    <p>The visual identity is built on a black and white foundation, with bursts of vibrant color that provide the grateful energy that Lightcast brings to their work. To craft this color system, we provided a way to blend colors into what is known as the "Glow."</p>
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <img src="{{ '/images/projects/lightcast/jacket-1.jpg' | relative_url }}" />
+</div>
+<div class="span-12 sm-span-6 pt1 lg-pt2 mb10">
+    <img src="{{ '/images/projects/lightcast/jacket-2.jpg' | relative_url }}" />
+</div>
+
+
+<hr class="span-12" />
+
+<div class="span-12 md-span-6">
+    <h3 class="displayLarge">Visual Language</h3>
+</div>
+
+<div class="span-12 md-span-6 md-start-7">
+   <p>The visual identity is built on a black and white foundation, with bursts of vibrant color that provide the grateful energy that Lightcast brings to their work. To craft this color system, we provided a way to blend colors into what is known as the "Glow."</p>
     <p>The Glow is then applied to patterns and backgrounds to provide a consistent visual language throughout the identity.</p>
 </div>
 
-<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb0 lg-mb10">
+<div class="span-12 sm-span-6 sm-start-4 pt1 lg-pt2 mb10">
     <iframe src="https://player.vimeo.com/video/719233983?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="640px" height="640px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Lightcast Glow"></iframe>
 </div>
 
-<!-- <div class="span-12 sm-span-6 pt1 lg-pt2">
-    <iframe src="https://player.vimeo.com/video/718776260?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="640px" height="640px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Lightcast Glow"></iframe>
-</div> -->
-
-
-<div class="span-4 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/illustration-1.jpg' | relative_url }}" />
+<div class="span-12 sm-span-6 pt1 lg-pt2">
+     <iframe src="https://player.vimeo.com/video/718776260?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="640px" height="640px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Lightcast Glow"></iframe>
 </div>
-<div class="span-4 start-5 pt1 lg-pt2">
-    <img src="{{ '/images/projects/lightcast/illustration-2.jpg' | relative_url }}" />
-</div>
-<div class="span-4 start-9 pt1 lg-pt2">
+<div class="span-12 sm-span-6 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/illustration-3.jpg' | relative_url }}" />
 </div>
 

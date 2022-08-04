@@ -4,7 +4,7 @@ title: 'Lightcast'
 subtitle: 'Labor Market Experts'
 date: 2022-08-02
 description: Lightcast Brand Identity by Overline Studio
-intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies; but their new name, Emsi Burning Glass, left something to be desired. Having worked with <a target="_blank" href="https://www.lexiconbranding.com/">Lexicon Branding</a> to find a new name, they reached out to us to establish a new brand and visual identity.
+intro: In June of 2021, two of the world's premier labor market data companies, Burning Glass Technologies and Emsi, merged to form a new powerhouse. The resulting combination brought about dramatic value for clients of both companies. But their new name—Emsi Burning Glass—left something to be desired. Having worked with <a target="_blank" href="https://www.lexiconbranding.com/">Lexicon Branding</a> to find a new name, they reached out to us to establish a new brand and visual identity.
 services: Identity, Digital
 featured_image: 'images/projects/lightcast/thumbnail.jpg'
 cover_video: 'https://player.vimeo.com/video/719170323'
@@ -19,7 +19,7 @@ cover_image: 'images/projects/lightcast/cover.jpg'
 
 <div class="span-12 md-span-6 md-start-7">
     <p>Lightcast has been hard at work for over two decades capturing and clarifying data that helps communities prosper. Their mission is to drive economic prosperity and mobility by providing the insights needed to build and develop people, institutions, companies, and communities.</p>
-    <p>Through our workshops and conversations, we agreed that this new identity should feel bright and optimistic. Lightcast is a humble, yet impactful partner, so we sought to capture a sense of hope, and inspiration that often is kindled in their customers.</p>
+    <p>Through our workshops and conversations, we agreed that this new identity should feel bright and optimistic. Lightcast is a humble, yet impactful partner, so we sought to capture a sense of hope, and inspiration that is often kindled in their customers.</p>
 </div>
 
 <div class="span-12 sm-span-6 pt1 lg-pt2">

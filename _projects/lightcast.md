@@ -32,9 +32,15 @@ cover_image: 'images/projects/lightcast/cover.jpg'
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/lightcast/attributes.jpg' | relative_url }}" />
 </div>
-<div class="span-12 sm-span-6 pt1 lg-pt2 mb10">
+<div class="span-12 sm-span-6 pt1 lg-pt2">
     <img src="{{ '/images/projects/lightcast/l-frame.jpg' | relative_url }}" />
 </div>
+
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>You crafted and led us through a great process from brainstorming through execution and beyond.”</blockquote>
+    <p>Dave Reinke, VP of Marketing</p>
+</div>
+
 
 <hr class="span-12" />
 
@@ -69,6 +75,10 @@ cover_image: 'images/projects/lightcast/cover.jpg'
     <img src="{{ '/images/projects/lightcast/jacket-2.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>I appreciated your professionalism during difficult moments. Our project had a ton of obstacles, yet you rose to the challenge, met all of our deadlines and knocked the project out of the park.”</blockquote>
+    <p>Dave Reinke, VP of Marketing</p>
+</div>
 
 <hr class="span-12" />
 
@@ -119,3 +129,7 @@ cover_image: 'images/projects/lightcast/cover.jpg'
     <img src="{{ '/images/projects/lightcast/web.jpg' | relative_url }}" />
 </div>
 
+<div class="span-12 md-span-10 mt10">
+    <blockquote><span>“</span>The thought and care that you put into creating the Lightcast identity is truly next level and we couldn't be happier.”</blockquote>
+    <p>Dave Reinke, VP of Marketing</p>
+</div>

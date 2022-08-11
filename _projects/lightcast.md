@@ -49,7 +49,7 @@ cover_image: 'images/projects/lightcast/cover.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>The identity for Lightcast tells a story of partnership and growth. The logomark, coined the "Tessell" after tessallation, reveals two repeating polygons. The two together indicate the partnership Lightcast brings to their customers, and the second shape being taller indicates the idea of upward momentum.</p>
+    <p>The identity for Lightcast tells a story of partnership and growth. The logomark, coined the "Tessell" after tessellation, reveals two repeating polygons. The two together indicate the partnership Lightcast brings to their customers, and the second shape being taller indicates the idea of upward momentum.</p>
     <p>Progress is the process, prosperity is the destination.</p>
 </div>
 

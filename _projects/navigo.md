@@ -19,7 +19,7 @@ cover_video: 'https://player.vimeo.com/video/716406586'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>Risk comes from not knowing what you’re doing. So Navigo is working to give people tools to stop bad things before they even happen. As part of strategy, we we're inspired by the quote from King Lune in the Horse and His Boy, "For this is what it means to be a king: to be first in every desperate attack and last in every desperate retreat..."</p>
+    <p>Risk comes from not knowing what you’re doing. So Navigo is working to give people tools to stop bad things before they even happen. As part of strategy, we were inspired by the quote from King Lune in the Horse and His Boy, "For this is what it means to be a king: to be first in every desperate attack and last in every desperate retreat..."</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">

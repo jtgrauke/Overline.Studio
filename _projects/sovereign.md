@@ -3,7 +3,7 @@ layout: project
 title: 'Sovereign'
 description: 'The Internet of Rollups'
 date: 2023-1-10
-intro: Sovereign is an open, interconnected rollup ecosystem. Their goal is to enable all developers to deploy customizable and scalable rollups that communicate seamlessly. We worked with them, alongside <a target="_blank" alt="3EKV" href="https://www.3ekv.com/">3EKV</a>, to develop a brand identity that would grab attention and pull people into this magical idea of the "Internet of Rollups."
+intro: Sovereign is an open, interconnected rollup ecosystem. Their goal is to enable all developers to deploy customizable and scalable rollups that communicate seamlessly. We worked with them, alongside <a target="_blank" alt="3EKV" href="https://www.3ekv.com/">3EKV</a>, to develop a brand identity that would grab attention and pull people into the magical idea of the "Internet of Rollups."
 services: Identity, Digital
 featured_image: 'images/projects/sovereign/thumbnail.webp'
 cover_image: 'images/projects/sovereign/cover.webp'

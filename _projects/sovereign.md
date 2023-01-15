@@ -3,7 +3,6 @@ layout: project
 title: 'Sovereign'
 subtitle: 'The Internet of Rollups'
 date: 2023-1-10
-description: The Internet of Rollups
 intro: Sovereign is an open, interconnected rollup ecosystem. Their goal is to enable all developers to deploy customizable and scalable rollups that communicate seamlessly. We worked with them, alongside <a target="_blank" alt="3EKV" href="https://www.3ekv.com/">3EKV</a>, to develop a brand identity that would grab attention and pull people into this magical idea of the "Internet of Rollups."
 services: Identity, Digital
 featured_image: 'images/projects/sovereign/thumbnail.webp'
@@ -38,7 +37,7 @@ cover_image: 'images/projects/sovereign/cover.webp'
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
     <blockquote><span>“</span>Being able to iterate on design quickly was one of the most important aspects for us, and you did that really well. We love the end result.”</blockquote>
-    <p>Cem Ozer, Co-Founder</p>
+    <p>Cem Ozer, CEO & Co-Founder</p>
 </div>
 
 <hr class="span-12" />
@@ -99,5 +98,5 @@ cover_image: 'images/projects/sovereign/cover.webp'
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
     <blockquote><span>“</span>We are very impressed with the brand, and hope to be able to build on it for a very long time.”</blockquote>
-    <p>Cem Ozer, Co-Founder</p>
+    <p>Cem Ozer, CEO & Co-Founder</p>
 </div>

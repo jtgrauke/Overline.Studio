@@ -5,7 +5,7 @@ subtitle: 'Virtual Career Center'
 date: 2022-12-13
 description: A new look for the Virtual Career Center.
 intro: uConnect built the first all-in-one virtual career center platform designed to radically improve digital student engagement. Their mission is to empower the next generation to realize their full potential by improving access to career resources, networks, and opportunities—early in their lives and throughout their careers. We worked with their team to establish a refreshed brand identity, that better aligned with their mission.
-services: Identity, Digital
+services: Strategy, Identity, Digital
 featured_image: 'images/projects/uconnect/thumbnail.jpg'
 cover_image: 'images/projects/uconnect/cover.jpg'
 ---

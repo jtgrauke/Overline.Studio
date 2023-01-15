@@ -1,9 +1,8 @@
 ---
 layout: project
 title: 'Tenicor'
-subtitle: Concealment Holsters
+description: Concealment Holsters.
 date: 2021-06-4
-description: Tenicor Brand Refresh by Overline Studio
 intro: Tenicor is an American design, development, manufacturing, and training company. Since 2008, they've been honing their craft and developing products that work. We worked with the Tenicor team to refresh their original brand identity, as well as design a visual language to support a new digital presence.
 services: Identity, Digital
 featured_image: '/images/projects/tenicor/thumbnail.jpg'

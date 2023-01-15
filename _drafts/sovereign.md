@@ -2,7 +2,7 @@
 layout: project
 title: 'Sovereign'
 subtitle: 'The Internet of Rollups'
-date: 2023-1-16
+date: 2023-1-10
 description: Sovereign Brand Identity by Overline Studio
 intro: Sovereign is an open, interconnected rollup ecosystem. Their goal is to enable all developers to deploy customizable and scalable rollups that communicate seamlessly. We worked with them, alongside <a target="_blank" alt="3EKV" href="https://www.3ekv.com/">3EKV</a>, to develop a brand identity that would grab attention and pull people into this magical idea of the "Internet of Rollups."
 services: Identity, Digital

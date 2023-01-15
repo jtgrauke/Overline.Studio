@@ -45,6 +45,7 @@
 	<meta name="twitter:image:src" content="{{ page.featured_image | absolute_url }}">
 
 	<!-- Facebook OpenGraph -->
+	<meta property="og:site_name" content="Overline">
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page.description | strip_html | xml_escape }}" />
 	<meta property="og:image" content="{{ page.featured_image | absolute_url }}" />

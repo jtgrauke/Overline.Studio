@@ -48,7 +48,7 @@ cover_image: 'images/projects/uconnect/cover.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>The identity for uConnect celebrates the joy of finding one's career. The broad range of colors serve as a sign of the diverse landscape that is career exploration. The typography feels smart and studied—but not too serious. And the playful illustration, by <a href="https://www.instagram.com/samuelrudyard/">Samuel Dickison</a>, bring everything together in a whimsical way.</p>
+    <p>The identity for uConnect celebrates the joy of finding one's career. The broad range of colors serve as a sign of the diverse landscape that is career exploration. The typography feels smart and studied—but not too serious. And the playful illustration, by <a href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a>, bring everything together in a whimsical way.</p>
     <p>For the logo, we cleaned up the mark and made everything more scalable and legible.</p>
 </div>
 

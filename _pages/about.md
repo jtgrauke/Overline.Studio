@@ -63,7 +63,16 @@ featured_image: '/images/social.jpg'
 			<img class="mb1"  src="{{ '/images/jt.jpg' | relative_url }}" />
 			<p>JT Grauke is the founder and lead designer of Overline. With a BFA in Musical Theater and over a decade of experience in design, JT brings a unique perspective to the design process, drawing inspiration from his theater background to inform and expand upon his work. He has six years of experience working in-house as a product designer, where he honed his skills in UI/UX for complex software. Additionally, JT spent over three years working in-house at a design agency, Focus Lab, where he learned the ins and outs of brand strategy, visual identity, and client interaction.</p>
 			<p>JT works directly with all Overline clients, but also brings in other talented designers, and depending on the needs of his clients, he pulls in specialists to craft the best possible end-product.</p>
-        </div> 
+
+			<!-- <div class="mt6 mb6">
+				<p>Collaborators</p>
+
+				<ul class="">
+					<li><a href="https://www.lawartstudios.com/">Levi Law</a>, UI/UX</li>
+					<li><a href="https://www.lawartstudios.com/">Levi Law</a>, UI/UX</li>
+				</ul>
+			</div> -->
+        </div>
 
 	</div>
 

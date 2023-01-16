@@ -3,7 +3,7 @@ layout: project
 title: 'uConnect'
 description: 'Career Center for anyone, anywhere, anytime.'
 date: 2022-12-13
-intro: uConnect built the first all-in-one virtual career center platform designed to radically improve digital student engagement. Their mission is to empower the next generation to realize their full potential by improving access to career resources, networks, and opportunities—early in their lives and throughout their careers. We worked with their team to establish a refreshed brand identity, that better aligned with their mission.
+intro: uConnect built the first all-in-one virtual career center platform designed to radically improve digital student engagement. Their mission is to empower the next generation to realize their full potential by improving access to career resources, networks, and opportunities—early in their lives and throughout their careers. We worked with their team to establish a refreshed brand identity, that better aligned with their mission. <p>Collaborators&#x3a; <a target="_blank" href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a> (Illustration)</p>
 services: Strategy, Identity, Digital
 featured_image: 'images/projects/uconnect/thumbnail.jpg'
 cover_image: 'images/projects/uconnect/cover.jpg'
@@ -48,7 +48,7 @@ cover_image: 'images/projects/uconnect/cover.jpg'
 </div>
 
 <div class="span-12 md-span-6 md-start-7">
-    <p>The identity for uConnect celebrates the joy of finding one's career. The broad range of colors serve as a sign of the diverse landscape that is career exploration. The typography feels smart and studied—but not too serious. And the playful illustration, by <a href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a>, bring everything together in a whimsical way.</p>
+    <p>The identity for uConnect celebrates the joy of finding one's career. The broad range of colors serve as a sign of the diverse landscape that is career exploration. The typography feels smart and studied—but not too serious. And the playful illustration, by <a target="_blank" href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a>, bring everything together in a whimsical way.</p>
     <p>For the logo, we cleaned up the mark and made everything more scalable and legible.</p>
 </div>
 

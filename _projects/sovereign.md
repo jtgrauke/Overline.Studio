@@ -77,6 +77,10 @@ cover_image: 'images/projects/sovereign/cover.webp'
     <img src="{{ '/images/projects/sovereign/3d-seamless.webp' | relative_url }}" />
 </div>
 
+<div class="span-12 pt1 lg-pt2">
+    <img src="{{ '/images/projects/sovereign/website.webp' | relative_url }}" />
+</div>
+
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/sovereign/3d-main.webp' | relative_url }}" />
 </div>
@@ -89,11 +93,15 @@ cover_image: 'images/projects/sovereign/cover.webp'
 </div>
 
 <div class="span-12 pt1 lg-pt2">
+    <iframe src="https://player.vimeo.com/video/793634070?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Maddox Logo Reveal"></iframe>
+</div>
+
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/sovereign/mobile.webp' | relative_url }}" />
 </div>
 
 <div class="span-12 pt1 lg-pt2">
-    <img src="{{ '/images/projects/sovereign/website.webp' | relative_url }}" />
+    <img src="{{ '/images/projects/sovereign/site-pages.webp' | relative_url }}" />
 </div>
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">

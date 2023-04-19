@@ -7,15 +7,25 @@ featured_image: '/images/social.jpg'
 
 <section>
 	<div class="wrap">
-		<div class="span-12 mt10 mb8 sm-pt4">
-			<h1 class="displayXLarge">Great design grows <br class="mobile-hide"> your bottom line.</h1>
+		<div class="span-12 mt10 mb10 sm-pt4">
+			<h1 class="displayXLarge">Bring your brand to life.<br class="mobile-hide"></h1>
+		</div>
+		<div class="span-12 md-span-3 md-start-7 sm-pt4">
+			<p>Overline is a design studio. We work with growing tech-companies to raise their perceived value through brand identity and web design.</p>
+		</div>
+		<div class="span-12 md-span-3 md-start-10 mb4 sm-pt4">
+			<p>Through our collaborative process, we design a presence that attracts the right customers, top-talent, and investors, so you can bring your brand to life.</p>
 		</div>
 	</div>
 </section>
 
 <section>
 	<div class="wrap">
+		<div class="span-12">
+			<p class="caption text-uppercase text-spacing-1">Recently Launched</p>
+		</div>
 		<div class="portfolio span-12">
+			
 			{% for project in site.projects reversed %}
 			<div class="portfolio-item">
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">

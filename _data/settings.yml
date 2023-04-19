@@ -78,7 +78,7 @@ font_settings:
   font_embed: ''
   title_font: '"Helvetica", sans-serif'
   body_font: '"Helvetica", sans-serif'
-  detail_font: '"Menlo"'
+  detail_font: '"Inconsolata"'
   regular_weight: 400
   bold_weight: 600
 

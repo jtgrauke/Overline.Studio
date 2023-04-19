@@ -159,6 +159,14 @@ iframe {
 	}
 }
 
+.text-uppercase {
+	text-transform: uppercase;
+}
+
+.text-spacing-1 {
+	letter-spacing: 0.05em;
+}
+
 .no-wrap {
 	white-space: nowrap;
 }
@@ -180,7 +188,7 @@ h1, .displayXLarge {
 	font-size: 48px;
 	font-weight: 400;
 	line-height: 1;
-	letter-spacing: -0.01em;
+	letter-spacing: -0.02em;
 	margin-bottom: 2rem;
 
 	@include mq(tabletp) {
@@ -276,6 +284,7 @@ h6, .subHeading {
 	}
 }
 
+
 p, ul, ol {
 	margin: 0 0 24px 0;
 	max-width: 32em;
@@ -290,6 +299,7 @@ p, ul, ol {
 
 	&.caption {
 		font-size: 0.9em;
+		font-family: $detail-font;
 	}
 
 	strong, .strong, &.strong {

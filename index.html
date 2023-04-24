@@ -3,30 +3,40 @@ layout: default
 title: Upgrade your brand, raise your bottom line.
 description: Overline is a design studio. We work with growing tech-companies to raise their perceived value through brand identity and web design. Through our collaborative process, we design a presence that attracts the right customers, top-talent, and investors, so you can bring your brand to life.
 featured_image: '/images/social.jpg'
+cover_image: 'images/hero.webp'
+body_class: home
 ---
 
-<section>
+<section class="hero bg-dark">
+	<div class="hero-background" style="background-image: url('{{ page.cover_image | relative_url }}');"></div>
 	<div class="wrap">
-		<div class="span-12 md-mt10 md-mb10 mt2 mb2  sm-pt4">
-			<h1 class="displayXLarge">Bring your brand to life.</h1>
-		</div>
-		<div class="span-12 md-span-3 md-start-7 sm-pt4">
-			<p>Overline is a design studio. We work with growing tech-companies to raise their perceived value through brand identity and web design.</p>
-		</div>
-		<div class="span-12 md-span-3 md-start-10 mb4 sm-pt4">
-			<p>Through our collaborative process, we design a presence that attracts the right customers, top-talent, and investors, so you can bring your brand to life.</p>
+		<div class="span-12 md-span-5 mt2 md-mt5">
+			<h1 class="displayXLarge mb5">Brand Identity Design for Tech-Driven Companies</h1>
+			<p class="mt10">Overline is a nimble design studio. We help tech-driven companies attract their target audience, top-talent, and investors with world-class identity design.</p>
+			<a href="https://app.hellobonsai.com/s/jtgrauke/intro-call" target="_blank" class="button mb5">Schedule a Call</a>
 		</div>
 	</div>
 </section>
 
 <section>
 	<div class="wrap">
-		<div class="span-12">
-			<p class="caption text-uppercase text-spacing-1">Recently Launched</p>
+		<div class="span-12 md-span-8 md-start-3 pt10 pb10 mt10 mb10">
+			<h2 class="displayLarge text-center">
+				In the competitive tech world, a strong brand and clear message are vital. Without them, you risk obscurity, losing your audience, talent, and investors. Invest in your brand to forge connections and ensure long-term success—the future depends on it.
+			</h2>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="wrap">
+		<div class="span-12 md-span-4 md-start-5">
+			<p class="caption text-uppercase text-spacing-1 text-center">Recently Launched</p>
 		</div>
 		<div class="portfolio span-12">
 			
-			{% for project in site.projects reversed %}
+			{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+			{% for project in sorted_projects limit: 6 %}
 			<div class="portfolio-item">
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 					<div class="portfolio-item__image">
@@ -34,12 +44,41 @@ featured_image: '/images/social.jpg'
 					</div>
 					<div class="portfolio-item__content">
 						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
-						<h3 class="portfolio-item__subtitle displayMedium">{{ project.description }}</h3>
-						<p class="portfolio-item__services caption">{{ project.services }}</p>
 					</div>
 				</a>
 			</div>
 			{% endfor %}
 		</div>
+		<div class="span-12 text-center">
+			<a href="/work" class="button mb5 mt5">See Our Work</a>
+		</div>
+		
+	</div>
+</section>
+
+<section class="bg-light pt10 pb10">
+	<div class="wrap">
+		<div class="span-12 mb5">
+			<h2 class="displayXLarge">Good design grows <br class="mobile-hide">your bottom line</h2>
+		</div>
+		<div class="span-12 md-span-5">
+			<p class="mt5">Companies that invest in exceptional design often see 30%+ more revenue growth¹ and are 3X more likely to achieve their business goals².</p>
+			<p>At Overline, our mission is to empower tech-driven companies with world-class brand identity design. Our team will work tirelessly to understand your company, your audience, and your vision.</p>
+			<p>By collaborating closely with you, we'll craft a brand identity that authentically reflects your core values and resonates with your target market. Learn about our process of creating an unforgettable brand experience that propels your business forward.</p>
+			<a href="https://app.hellobonsai.com/s/jtgrauke/intro-call" target="_blank" class="button mb5">Schedule a Call</a>
+			<div class="mt5">
+				<p class="caption">
+					¹McKinsey & Company, "The Business Value of Design"</br>
+					²Adobe, "2019 Digital Trends Report"</p>
+			</div>
+		</div>
+		<div class="span-12 md-span-5 md-start-7 stats">
+			<ul>
+				<li>Happy Clients: <span>84</span></li>
+				<li>Years of Experience: <span>11+</span></li>
+				<li>Brand Presentations: <span>1K+</span></li>
+			</ul>
+		</div>
+		
 	</div>
 </section>

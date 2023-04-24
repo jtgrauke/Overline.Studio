@@ -6,10 +6,23 @@
 
 
 .footer {
-	border-top: 1px solid $border-color;
 	@include transition(all 0.4s ease-in-out 0.8s);
 	padding: 2em 0;
-	margin-top: 3em;
+
+	a {
+		color: #fff;
+	}
+
+	.overline-mark  {
+	
+		.circle-one, .circle-two {
+			border-color: #fff;
+		}
+
+		.line {
+			background: #fff;
+		}
+	}
 
 	.menu-list {
 		padding: 0;

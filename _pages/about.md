@@ -62,19 +62,7 @@ featured_image: '/images/social.jpg'
 		<div class="span-12 sm-span-6 sm-start-7 mb6">
 			<img class="mb1"  src="{{ '/images/jt.jpg' | relative_url }}" />
 			<p>JT Grauke is the founder and lead designer of Overline. With a BFA in Musical Theater and over a decade of experience in design, JT brings a unique perspective to the design process, drawing inspiration from his theater background to inform and expand upon his work. He has six years of experience working in-house as a product designer, where he honed his skills in UI/UX for complex software. Additionally, JT spent over three years working in-house at a design agency, Focus Lab, where he learned the ins and outs of brand strategy, visual identity, and client interaction.</p>
-			<p>JT works directly with all Overline clients, but also pulls in other talented designers on projects. Depending on the needs of our clients, he work to assemble a team of specialists to craft the best possible end-product. Some of these collaborators include:</p>
-
-			<div class="mt6 mb6">
-
-				<ul class="">
-					<li>Levi Law, UI/UX</li>
-					<li>Samuel Dickison, Illustration</li>
-					<li>Danny Botkin, Brand</li>
-					<li>Ryan Harrison, Brand</li>
-					<li>Bryan Barger, 3D</li>
-					<li>James Engerbretson, Brand</li>
-				</ul>
-			</div>
+			<p>JT works directly with all Overline clients, but also pulls in other talented designers on projects. Depending on the needs of our clients, he work to assemble a team of specialists to craft the best possible end-product.</p>
         </div>
 
 	</div>

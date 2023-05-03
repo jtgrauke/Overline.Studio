@@ -292,6 +292,7 @@ p, ul, ol {
 
 	strong, .strong, &.strong {
 		font-weight: 700;
+		letter-spacing: -0.03em;
 		color: $text-dark-color;
 	}
 
@@ -308,7 +309,7 @@ blockquote {
 	margin: 1rem 0;
 	font-size: 32px;
 	font-weight: 400;
-	letter-spacing: -0.02em;
+	letter-spacing: -0.04em;
 	line-height: 1.2;
 	color: $text-dark-color;
 

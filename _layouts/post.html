@@ -4,19 +4,31 @@ layout: default
 {% assign downauthor = page.author | downcase %}
 {% assign author = site.data.settings.authors[downauthor] %}
 
-<section class="blog single">
-
-	<article>
-
-		<h3 class="displayMedium">{{ page.title }}</h3>
-		<div class="byline clear">
-			{% if author %}
-				<div class="byline-pic {{ author.profile_image_class }}"></div>			
-				<span>{{ author.first_name }} wrote this on {{ page.date | date_to_long_string }}</span>
-			{% endif %}
+<section class="hero bg-dark">
+	<div class="hero-background" style="background-image: url('{{ page.featured_image | relative_url }}');"></div>
+	<div class="wrap">
+		<div class="span-12 md-span-5 mt2 md-mt5">
+			<h1 class="displayXLarge mb5">{{ page.title }}</h1>
+			<div class="mt10">
+				{% if author %}
+				<div class="byline">
+					<div class="byline-pic {{ author.profile_image_class }}"></div>			
+					<span>{{ author.display_name }}</span>
+				</div>
+				{% endif %}
+			</div>
 		</div>
-		<div class="entry clear">
-			{{ page.content }}
+	</div>
+</section>
+
+<section class="blog-content mt10 mb10">
+
+	<article class="wrap">
+
+		<div class="span-12">
+			<div class="entry clear">
+				{{ page.content }}
+			</div>
 		</div>
 
 	</article>

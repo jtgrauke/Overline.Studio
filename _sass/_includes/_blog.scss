@@ -5,84 +5,104 @@
 // - - - - - - - - - - - - - - - - - -
 
 .blog {
-	padding: 0 5%;
 
-	article {
-		max-width: 640px;
-		margin: 0 auto 80px;
-		padding-bottom: 80px;
-		border-bottom: 1px solid $text-light-color;
-		
-		p {
-			max-width: 100%;
-		}
-
-		.entry img {
-			display: block;
-			margin-left: auto;
-			margin-right: auto;
-		}
-	}
-
-	&.single article {
-		border-bottom: 0;
-		padding-bottom: 0;
+	@include mq(tabletl) {
+		margin: -$grid-spacing/2;
 	}
 }
 
-figure {
-    margin-bottom: 1.5em;
+.blog-item {
+	position: relative;
+	margin-bottom: 56px;
+
+	.blog-item__title {
+		margin-bottom: 0;
+	}
+
+	@include mq(tabletl) {
+		padding: $grid-spacing/2;
+		float: left;
+		width: 50%;
+	}
 }
 
-figcaption {
-	text-align: center;
-	font-style: italic;
-	padding: 12px;
+.blog-item__link {
+	position: relative;
+	display: block;
+
+	.blog-item__services {
+
+		@include mq(laptop) {
+			opacity: 0;
+		}
+			
+	}
+
+	&:hover {
+
+		.blog-item__services {
+			opacity: 1;
+		}
+	}
+
+}
+
+.blog-item__image {
+	width: 100%;
+}
+
+.blog-item__content {
+	padding-top: 24px;
 }
 
 .byline {
-	display: flex;
-    align-items: center;
-    margin: 16px auto;
+    font-weight: 500;
 
-	.byline-pic { 
-		background-repeat: no-repeat; 
-	   width: 32px;
-	   height: 32px;
-	   margin-right: 16px;
-	   background-size: cover;
-	   border-radius: 24px;
-   }
+	.byline-pic {
+		background-repeat: no-repeat;
+		width: 48px;
+		height: 48px;
+		background-size: cover;
+		border-radius: 24px;
+		margin: -12px 16px 6px 0;
+		float: left;
+	}
 }
 
-.isaac      { background-image:url(/images/authors/isaac.jpg); }
-.james      { background-image:url(/images/authors/james.jpg); }
-.adam       { background-image:url(/images/authors/adam.jpg); }
-.mark       { background-image:url(/images/authors/mark.jpg); }
-.nick       { background-image:url(/images/authors/nick.jpg); }
-.joseph     { background-image:url(/images/authors/joseph.jpg); }
-.brendan    { background-image:url(/images/authors/brendan.jpg); }
-.toby       { background-image:url(/images/authors/toby.jpg); }
-.christian  { background-image:url(/images/authors/christian.jpg); }
-.pat        { background-image:url(/images/authors/pat.jpg); }
-.joel       { background-image:url(/images/authors/joel.jpg); }
-.josh       { background-image:url(/images/authors/josh.jpg); }
-.josiah     { background-image:url(/images/authors/josiah.jpg); }
-.matt       { background-image:url(/images/authors/matt.jpg); }
-.jordan     { background-image:url(/images/authors/jordan.jpg); }
-.caleb      { background-image:url(/images/authors/caleb.jpg); }
+.jt {
+    background-image: url(/images/jt.jpg)
+}
 
+.blog-content article {
 
-.pagination .wrap {
-	max-width: 640px;
+	max-width: 800px;
 	margin: 0 auto;
-}
 
-.pagination__prev {
-	float: right;
-	margin-right: 10px;
-}
+	p {
+		max-width: 100%;
+	}
 
-.pagination__next {
-	text-align: left;
+	h1, h2, h3, h4, h5 {
+		font-weight: 700;
+		margin-top: 3em;
+		letter-spacing: -0.04em;
+	}
+
+	blockquote p {
+		font-size: 32px;
+		margin: 1.5em 0;
+		letter-spacing: -0.03em;
+		padding-left: 2em;
+		border-left: 2px solid #ddd;
+		text-indent: -0.3em;
+	}
+
+	ul, ol {
+		list-style: square;
+		padding-left: 1em;
+
+		li {
+			margin-bottom: 1em;
+		}
+	}
 }

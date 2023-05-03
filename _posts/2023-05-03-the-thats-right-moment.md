@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'That's Right' Moment: Make Your Audience Feel Understood"
-featured_image: "/images/posts/the-thats-right-moment.png"
+featured_image: "/images/posts/the-thats-right-moment.webp"
 date: 2023-05-03
 author: jt
 ---

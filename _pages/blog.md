@@ -14,7 +14,6 @@ title: Blog
 			</div>
 			<div class="blog-item__content">
 				<h2 class="blog-item__title displayMedium">{{ post.title }}</h2>
-				<p class="blog-item__services caption">{{ post.date | date: "%B %-d, %Y" }}</p>
 			</div>
 		</a>
 	</div>

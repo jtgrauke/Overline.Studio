@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'That's Right' Moment: Make Your Audience Feel Understood"
-featured_image: "https://media.discordapp.net/attachments/1006593560830816419/1103322382904606771/jtgrauke_Art_by_Hiroshi_Nagai_bridge_57d4fb8d-5688-46c8-9f01-f538f35c4a5e.png"
+featured_image: "/images/posts/the-thats-right-moment.png"
 date: 2023-05-03
 author: jt
 ---

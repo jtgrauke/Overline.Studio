@@ -3,7 +3,6 @@ layout: page
 title: Blog
 ---
 
-
 <h1>{{ page.title }}</h1>
 <div class="blog span-12">
 	{% for post in site.posts %}

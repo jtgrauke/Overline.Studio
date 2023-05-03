@@ -4,6 +4,8 @@ email: jt@overline.studio
 url: https://overline.studio
 baseurl: 
 
+permalink: pretty 
+
 collections:
   pages:
     output: true

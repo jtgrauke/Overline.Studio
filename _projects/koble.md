@@ -38,15 +38,14 @@ cover_image: 'images/projects/koble/cover.webp'
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/koble/naming.webp' | relative_url }}" />
 </div>
-<div class="span-12 sm-span-6 pt1 lg-pt2 mb6 pb10">
+<div class="span-12 sm-span-6 pt1 lg-pt2 mb6">
     <img src="{{ '/images/projects/koble/koble-meaning.webp' | relative_url }}" />
 </div>
 
-
-<!-- <div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>You really got to know our company, our audience, our past, and where we wanted to go. That gave us a lot of confidence you were going deep, and we weren't just getting a fresh coat of paint.”</blockquote>
-    <p>Ashley Safranski, VP of Marketing</p>
-</div> -->
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>We really grew in our ability to articulate who we are and why we do what we do in a compelling way through working with you.”</blockquote>
+    <p>Kelsey Stout, Head of HR & Marketing</p>
+</div>
 
 
 <hr class="span-12" />
@@ -104,14 +103,14 @@ cover_image: 'images/projects/koble/cover.webp'
     <img src="{{ '/images/projects/koble/type-2.webp' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2 mb6 pb10">
+<div class="span-12 pt1 lg-pt2 mb6">
     <img src="{{ '/images/projects/koble/billboard.webp' | relative_url }}" />
 </div>
 
-<!-- <div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>The outcome was *chef's kiss*! We now have a visual identity that is fun and approachable, but also is clean and professional. Plus, it's unique! We really stand out from others in the space.”</blockquote>
-    <p>Ashley Safranski, VP of Marketing</p>
-</div> -->
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>Our marketing team learned a ton from you and because of that is much better set up to continue to build on the rebrand.”</blockquote>
+    <p>Kelsey Stout, Head of HR & Marketing</p>
+</div>
 
 <hr class="span-12" />
 
@@ -150,8 +149,9 @@ cover_image: 'images/projects/koble/cover.webp'
 </div>
 
 
-<!-- <div class="span-12 md-span-10 mt10">
-    <blockquote><span>“</span>You were a joy to work with. You were fun, engaging and it really felt like a great partnership.”</blockquote>
-    <p>Ashley Safranski, VP of Marketing</p>
-</div> -->
+<div class="span-12 md-span-10 mt10">
+    <blockquote><span>“</span>You helped us take our whole company experience to another level, pushing us to think wholistically about the company and the brand.</blockquote>
+    <p>Change for any company is a challenge, and changing the name of an organization that has as much history as we have is a particularly difficult thing to do. But when we actually announced, first to our employees, and then to our clients, both groups really resonated with the new name and our brand colors. It really showed that you captured the core of who we are, making it a much smoother change than it could have been.”</p>
+    <p>Kelsey Stout, Head of HR & Marketing</p>
+</div>
 

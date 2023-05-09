@@ -47,7 +47,6 @@ cover_image: 'images/projects/koble/cover.webp'
     <p>Kelsey Stout, Head of HR & Marketing</p>
 </div>
 
-
 <hr class="span-12" />
 
 <div class="span-12 md-span-6">

@@ -36,7 +36,7 @@ cover_image: 'images/projects/siena/cover.webp'
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
     <blockquote><span>“</span>Our collaboration was instrumental in launching Siena. Overline captured the essence of our vision and the brand has played a huge role in attracting new partnerships and expanding our business.”</blockquote>
-    <p>Lisa Popovici, Co-Founder at Siena</p>
+    <p>Lisa Popovici, co-founder and CMO at Siena AI</p>
 </div>
 
 <hr class="span-12" />
@@ -107,7 +107,7 @@ cover_image: 'images/projects/siena/cover.webp'
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
     <blockquote><span>“</span>The brand has been crucial in generating buzz and interest around our launch. Your creativity and dedication to understanding our vision have laid the foundation for a strong start and future growth.”</blockquote>
-    <p>Lisa Popovici, Co-Founder at Cartloop</p>
+    <p>Lisa Popovici, co-founder and CMO at Siena AI</p>
 </div>
 
 <div class="span-12 pt1 lg-pt2">

@@ -43,7 +43,7 @@ cover_image: 'images/projects/koble/cover.webp'
 </div>
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>We really grew in our ability to articulate who we are and why we do what we do in a compelling way through working with you.”</blockquote>
+    <blockquote><span>“</span>We really grew in our ability to articulate who we are and why we do what we do in a compelling way. And when we actually announced, first to our employees, and then to our clients, both groups really resonated with the new name.”</blockquote>
     <p>Kelsey Stout, Head of HR & Marketing</p>
 </div>
 

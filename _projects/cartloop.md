@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Cartloop'
-description: 'Humanizing text marketing.'
+description: 'Humanizing text marketing'
 date: 2021-09-31
 intro: Cartloop is an ecommerce startup that's changing the way people interact with brands. Instead of automated messages (or chat bots), Cartloop is helping brands grow by creating super-personalized experiences throughout the entire shopping journey. We worked with Cartloop to create a new brand strategy and visual identity. We also created a unique visual language that would scale across various touchpoints like website, illustrations, and social media. <p>Collaborators&#x3a; <a target="_blank" href="https://studiomightymighty.com/">Ryan Harrison</a></p>
 services: Strategy, Identity

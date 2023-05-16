@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Navigo'
-description: 'All-in-one Risk OS.'
+description: 'All-in-one Risk OS'
 date: 2020-08-31
 intro: Navigo builds tools to expose and manage risk. They believe when people see the danger they face, connect with others, and act in light of it, they’re able to map a better future. We work with Navigo in an ongoing capacity to design their visual identity, digital products, and public-facing website. 
 services: Strategy, Identity, Digital

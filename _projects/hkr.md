@@ -5,7 +5,7 @@ description: 'Insource your talent'
 date: 2023-02-25
 intro: HKR is a pioneering talent-insourcing team, dedicated to embedding top-tier talent into organizations for a reasonable monthly fee. Their mission is to change the perception of outsourcing. However, they faced a challenge - their brand did not encapsulate this unique value proposition. This was where we stepped in to help HKR craft a compelling brand strategy, identity, and website that truly matched their offering.
 services: Strategy, Identity, Digital
-featured_image: '/images/projects/hkr/thumbnail.webp'
+featured_image: '/images/projects/hkr/thumbnail.jpg'
 cover_image: '/images/projects/hkr/cover.webp'
 ---
 

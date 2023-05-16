@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Populi'
-description: Focus on teaching, not technology.
+description: Focus on teaching, not technology
 date: 2021-06-30
 intro: Populi is a fully hosted, web-based college information management system. Since 2007, they've worked with hundreds of schools to run more efficiently and offer a better education experience to their students. We worked with them to redesign their brand identity, establish a new visual language, as well as a new marketing website. <p>Collaborators&#x3a; <a target="_blank" href="https://www.instagram.com/gamdesignshop/">Samuel Dickison</a></p>
 services: Strategy, Identity, Digital

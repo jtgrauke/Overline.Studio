@@ -5,7 +5,7 @@ description: 'ERP Software for Small Businesses'
 date: 2023-03-25
 intro: For 30+ years, Eagle Business Software has been helping small to medium-sized enterprises manage and grow their businesses. EBS had reached a point where their mission, and focus were not aligned with their brand. We worked with their team to establish a new name, Koble, as well as a brand strategy, visual identity, and website. <p>Collaborators&#x3a; <a target="_blank" href="https://mattyow.com/">Matt Yow</a> (Naming)</p>
 services: Naming, Strategy, Identity, Digital
-featured_image: 'images/projects/koble/thumbnail.webp'
+featured_image: 'images/projects/koble/thumbnail.jpg'
 cover_image: 'images/projects/koble/cover.webp'
 ---
 

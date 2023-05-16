@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Thrive Digital'
-description: Sustainable growth through advertising.
+description: Sustainable growth through advertising
 date: 2022-06-14
 intro: Thrive Digital is a performance marketing agency located in Vancouver, Canada. They plan, implement, and optimize online advertising campaigns that are seen by millions of people around the world. We worked with them to define a new content strategy for their website, and brought their brand to life through a UI design system.
 services: Identity, Digital

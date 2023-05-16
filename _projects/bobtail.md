@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Bobtail'
-description: 'Keep the Cash Flowing.'
+description: 'Keep the Cash Flowing'
 date: 2021-05-20
 intro: Bobtail is on a mission to deliver freedom from inefficiencies in the supply chain and make people happy. We worked with the founders to align on brand attributes that reflected their outlook on the future. Through a cheerful color palette, clean illustrations, and photos of real truckers on the job, the brand has a optimistic tone that reflects their vision of a frictionless supply chain.
 services: Identity, Digital

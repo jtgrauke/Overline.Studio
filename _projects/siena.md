@@ -5,7 +5,7 @@ description: 'Humanize The Internet'
 date: 2023-03-26
 intro: Siena is a cutting-edge AI customer service platform thats transforming the way businesses engage with their customers. By harnessing the power of GPT-4 and proprietary models, Siena merges human empathy and intelligent automation, creating an almost-human conversational experience that delights customers across all channels. <p>We partnered with Siena to develop a brand strategy, visual identity, and unique visual language that would resonate with their audience and set them apart from competitors.</p>
 services: Strategy, Identity
-featured_image: '/images/projects/siena/thumbnail.webp'
+featured_image: '/images/projects/siena/thumbnail.jpg'
 cover_image: 'images/projects/siena/cover.webp'
 ---
 

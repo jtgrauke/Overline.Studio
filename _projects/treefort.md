@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Treefort'
-description: Your content, your audience, your platform.
+description: Your content, your audience, your platform
 date: 2021-09-10
 intro: Treefort is a white-label media streaming platform. We worked with their product development team to establish a UI design system, as well as the dashboard to the content management system.
 services: Digital

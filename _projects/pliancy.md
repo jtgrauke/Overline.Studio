@@ -147,7 +147,7 @@ cover_image: '/images/projects/pliancy/cover.webp'
 </div>
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Quote TBD"</blockquote>
+    <blockquote><span>“</span>Quote TBD”</blockquote>
     <p>Name, Title</p>
 </div>
 

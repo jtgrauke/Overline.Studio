@@ -36,11 +36,16 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <img src="{{ '/images/projects/pliancy/tension.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2 mb6">
+<div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/pliancy/line.jpg' | relative_url }}" />
 </div>
 
-<hr class="span-12 mt10" />
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>You drew on your knowledge of the space to guide many differing opinions towards our ultimate goal. You came prepared to every meeting and kept the multiple voices working together.”</blockquote>
+    <p>Kyle Barber, Creative Lead</p>
+</div>
+
+<hr class="span-12" />
 
 <div class="span-12 md-span-6">
     <h3 class="displayLarge">Visual Identity</h3>
@@ -101,11 +106,16 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <img src="{{ '/images/projects/pliancy/proposal.webp' | relative_url }}" /> 
 </div>
 
-<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb6">
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
     <iframe src="https://player.vimeo.com/video/834483311?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Grow With Us"></iframe>
 </div>
 
-<hr class="span-12 mt10" />
+<div class="span-12 md-span-10 pb6 mb6 mt10">
+    <blockquote><span>“</span>You saw our brand revamp as a challenge, not an exercise in comfort and familiarity. You broke from our history and came out swinging with fresh ideas that have propelled our brand forward.”</blockquote>
+    <p>Kyle Barber, Creative Lead</p>
+</div>
+
+<hr class="span-12" />
 
 <div class="span-12 md-span-6">
     <h3 class="displayLarge">Interactive</h3>
@@ -178,4 +188,9 @@ cover_image: '/images/projects/pliancy/cover.webp'
 </div>
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb6">
     <img src="{{ '/images/projects/pliancy/mobile-post.webp' | relative_url }}" />
+</div>
+
+<div class="span-12 md-span-10 pb6 mt10">
+    <blockquote><span>“</span>Overline has walked with us through many phases of Pliancy. From our early growth to now, where we're redefining ourselves as a brand. With our biggest changes yet about to launch, we're excited to see what the future holds.”</blockquote>
+    <p>Kyle Barber, Creative Lead</p>
 </div>

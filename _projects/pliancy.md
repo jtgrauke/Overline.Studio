@@ -2,7 +2,7 @@
 layout: project
 title: 'Pliancy'
 description: Tech-Enabled Professional Services
-date: 2023-06-07
+date: 2023-06-12
 intro: <p>Pliancy is the people-centric IT service for the changemakers of today. They're the unseen powerhouse behind bold, emerging companies, handling everything from email and file management, to security and reporting.</p> <p>We had the honor of partnering with Pliancy to revitalize their brand. Our collaboration encompassed a complete brand overhaul, introducing a fresh visual language, refining their logo, and designing a cutting-edge website, including art direction for their blog.</p>
 services: Strategy, Identity, Digital
 featured_image: '/images/projects/pliancy/thumbnail.jpg'
@@ -36,16 +36,11 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <img src="{{ '/images/projects/pliancy/tension.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 pt1 lg-pt2">
+<div class="span-12 pt1 lg-pt2 mb6">
     <img src="{{ '/images/projects/pliancy/line.jpg' | relative_url }}" />
 </div>
 
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Quote TBD.”</blockquote>
-    <p>Name, Title</p>
-</div>
-
-<hr class="span-12" />
+<hr class="span-12 mt10" />
 
 <div class="span-12 md-span-6">
     <h3 class="displayLarge">Visual Identity</h3>
@@ -106,17 +101,11 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <img src="{{ '/images/projects/pliancy/proposal.webp' | relative_url }}" /> 
 </div>
 
-<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb6">
     <iframe src="https://player.vimeo.com/video/834483311?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Grow With Us"></iframe>
 </div>
 
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Quote TBD"</blockquote>
-    <p>Name, Title</p>
-</div>
-
-
-<hr class="span-12" />
+<hr class="span-12 mt10" />
 
 <div class="span-12 md-span-6">
     <h3 class="displayLarge">Interactive</h3>
@@ -142,17 +131,11 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <img src="{{ '/images/projects/pliancy/desktop-customers.webp' | relative_url }}" />
 </div>
 
-<div class="span-12 pt2">
+<div class="span-12 pt2 mb6">
     <img src="{{ '/images/projects/pliancy/desktop-designs.webp' | relative_url }}" />
 </div>
 
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Quote TBD”</blockquote>
-    <p>Name, Title</p>
-</div>
-
-
-<hr class="span-12" />
+<hr class="span-12 mt10" />
 
 <div class="span-12 md-span-6">
     <h3 class="displayLarge">Blog</h3>
@@ -193,11 +176,6 @@ cover_image: '/images/projects/pliancy/cover.webp'
 <div class="span-12 sm-span-6 pt1 lg-pt2">
      <img src="{{ '/images/projects/pliancy/levi-law.webp' | relative_url }}" />
 </div>
-<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
+<div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2 mb6">
     <img src="{{ '/images/projects/pliancy/mobile-post.webp' | relative_url }}" />
-</div>
-
-<div class="span-12 md-span-10 pb6 mb6 mt10">
-    <blockquote><span>“</span>Quote TBD"</blockquote>
-    <p>Name, Title</p>
 </div>

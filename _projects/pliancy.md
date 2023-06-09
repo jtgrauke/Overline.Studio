@@ -2,7 +2,7 @@
 layout: project
 title: 'Pliancy'
 description: Tech-Enabled Professional Services
-date: 2023-06-12
+date: 2023-06-9
 intro: <p>Pliancy is the people-centric IT service for the changemakers of today. They're the unseen powerhouse behind bold, emerging companies, handling everything from email and file management, to security and reporting.</p> <p>We had the honor of partnering with Pliancy to revitalize their brand. Our collaboration encompassed a complete brand overhaul, introducing a fresh visual language, refining their logo, and designing a cutting-edge website, including art direction for their blog.</p>
 services: Strategy, Identity, Digital
 featured_image: '/images/projects/pliancy/thumbnail.jpg'

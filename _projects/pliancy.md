@@ -97,7 +97,6 @@ cover_image: '/images/projects/pliancy/cover.webp'
     <iframe src="https://player.vimeo.com/video/834471670?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Grow With Us"></iframe>
 </div>
 
-
 <div class="span-12 pt1 lg-pt2">
     <img src="{{ '/images/projects/pliancy/3d-marquee.webp' | relative_url }}" />
 </div>
@@ -107,7 +106,11 @@ cover_image: '/images/projects/pliancy/cover.webp'
 </div>
 
 <div class="span-12 sm-span-6 sm-start-7 pt1 lg-pt2">
-    <iframe src="https://player.vimeo.com/video/834483311?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Grow With Us"></iframe>
+    <iframe src="https://player.vimeo.com/video/834483311?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1080px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Transparency"></iframe>
+</div>
+
+<div class="span-12 pt1 lg-pt2">
+    <iframe src="https://player.vimeo.com/video/835507394?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Automating the Mundane"></iframe>
 </div>
 
 <div class="span-12 md-span-10 pb6 mb6 mt10">

@@ -129,4 +129,3 @@ cover_image: 'images/projects/craftwork/cover.webp'
     <blockquote><span>“</span>Your responsiveness made us feel heard and valued, ultimately shaping the brand that truly represents Craftwork.”</blockquote>
     <p>Tim Griffin, Co-Founder of Craftwork</p>
 </div>
-

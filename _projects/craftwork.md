@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Craftwork'
-description: 'The easy way to paint your home.'
+description: 'The easy way to paint your home'
 date: 2023-04-04
 intro: Craftwork is setting out to revolutionize the general contracting industry. They work with homeowners, frustrated by the manual, unpredictable, and outdated processes involved in completing any home project. With Craftwork, you can use technology to simplify the experience and deliver consistently high-quality project work. We worked with their team to establish a brand strategy, visual identity, and new marketing website. <p>Collaborators&#x3a; <a target="_blank" href="https://www.itslaurenjones.com/">Lauren Jones</a> (Photography)</p>
 services: Strategy, Identity, Digital

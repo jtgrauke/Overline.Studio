@@ -9,7 +9,6 @@ featured_image: '/images/social.jpg'
 <section>
 	<div class="wrap mt5">
 		<div class="portfolio span-12 ">
-			
 			{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 			{% for project in sorted_projects %}
 			<div class="portfolio-item">

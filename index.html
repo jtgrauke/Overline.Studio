@@ -11,7 +11,7 @@ body_class: home
 	<div class="hero-background" style="background-image: url('{{ page.cover_image | relative_url }}');"></div>
 	<div class="wrap">
 		<div class="span-12 md-span-5 mt2 md-mt5">
-			<h1 class="displayXLarge mb5">Lead Your Industry with a Resilient & Remarkable Brand</h1>
+			<h1 class="displayXLarge mb4">Lead Your Industry with a Resilient & Remarkable Brand</h1>
 			<p class="mt10">Through strategy and design, we help tech companies transform into category leaders. Our collaborative and efficient approach creates mission-clarity, competitive differentiation, and ultimately propels your growth.</p>
 			<a href="https://app.hellobonsai.com/s/jtgrauke/intro-call" target="_blank" class="button mb5">Schedule a Call</a>
 		</div>
@@ -20,23 +20,32 @@ body_class: home
 
 <section>
 	<div class="wrap">
-		<div class="span-12 md-span-8 md-start-3 pt8 pb8 mt8 mb10">
-			<h2 class="displayLarge text-center">
-				In the competitive tech world, a strong brand and clear message are vital. Without them, you risk obscurity, losing your audience, talent, and investors. Invest in your brand to forge connections and ensure long-term success—the future depends on it.
-			</h2>
+		<div class="span-12 pt8 mt6 mb6">
+			<h2 class="displayXLarge">We’ve identified two <br class="mobile-hide">qualities of leading brands.</h2>
 		</div>
-	</div>
+		<div class="span-12 md-span-4 mt2 mb6">
+			<h4>They are Resilient</h4>
+			<p>Leading brands unite a team around a common purpose, attracting loyal customers, top-tier talent, and like-minded investors. More than mere survival, their brand thrives in volatility.</p>
+		</div>
+		<div class="span-12 md-span-4 md-start-6 mt2 mb6">
+			<h4>They are Remarkable</h4>
+			<p>Leading brands cut through the noise, raising perceived value and communicating a distinct message. In a sea of sameness, their brand stands out, leaves an impression, and drives growth.</p>
+		</div>
+		<div class="span-12 mt6 mb6">
+			<h2 class="displayLarge">Wish this described your brand? <br class="mobile-hide">We can help—like we helped these companies.</h3>
+		</div>
+		
 </section>
 
 <section>
 	<div class="wrap">
-		<div class="span-12 md-span-4 md-start-5">
-			<p class="caption text-uppercase text-spacing-1 text-center">Recently Launched</p>
-		</div>
+		<!-- <div class="span-12 md-span-4 md-start-5">
+			<h4 class="text-center">Recent Transformations</h4>
+		</div> -->
 		<div class="portfolio span-12">
-			
+
 			{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
-			{% for project in sorted_projects limit: 6 %}
+			{% for project in sorted_projects limit: 4 %}
 			<div class="portfolio-item">
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 					<div class="portfolio-item__image">
@@ -44,6 +53,8 @@ body_class: home
 					</div>
 					<div class="portfolio-item__content">
 						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
+						<h3 class="portfolio-item__subtitle displayMedium">{{ project.description }}</h3>
+						<p class="portfolio-item__services caption">{{ project.services }}</p>
 					</div>
 				</a>
 			</div>

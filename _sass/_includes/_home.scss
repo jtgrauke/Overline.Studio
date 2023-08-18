@@ -100,7 +100,9 @@ ul.checklist {
 			content: url(/images/home/checklist.svg);
 			margin-left: -16px;
 			margin-right: 12px;
-			vertical-align: middle;
+			margin-top: -2px;
+			display: inline-block;
+			vertical-align: top;
 		}
 	}
 }

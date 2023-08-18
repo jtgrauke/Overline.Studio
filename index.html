@@ -7,45 +7,31 @@ cover_image: 'images/hero.gif'
 body_class: home
 ---
 
-<section class="hero bg-dark">
-	<div class="hero-background" style="background-image: url('{{ page.cover_image | relative_url }}');"></div>
+<section class="hero">
+	<!-- <div class="hero-background" style="background-image: url('{{ page.cover_image | relative_url }}');"></div> -->
 	<div class="wrap">
-		<div class="span-12 md-span-5 mt2 md-mt5">
-			<h1 class="displayXLarge md-mb4">Grow your bottom line with strategic and world-class design</h1>
-			<p class="md-mt10">Overline is a small, but mighty design studio. We help growing tech companies codify their value. Our collaborative efforts create mission-clarity, talent attraction, competitive differentiation, and bottom-line growth.</p>
-			<a href="https://app.hellobonsai.com/s/jtgrauke/intro-call" target="_blank" class="button mb5">Schedule a Call</a>
+		<div class="span-12 mt6 md-mt8">
+			<h1 class="displayXLarge md-mb4 text-center">Make your <span class="text-gradient">brand</span> <br class="mobile-hide"/>the obvious choice</h1>
+			<p class="md-mt10">We offer a brand identity, and marketing design process to help position your tech company as the brand your customers, talent, and investors are looking for.</p>
+		</div>
+		<div class="span-12 pt1">
+			<iframe src="https://player.vimeo.com/video/855474910?autoplay=1&loop=1&title=0&byline=0&portrait=0&background=1&quality=2K" width="1920px" height="1080px" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Overline Reel"></iframe>
 		</div>
 	</div>
 </section>
 
 <section>
 	<div class="wrap">
-		<div class="span-12 md-mt5 md-mb5">
-			<h2 class="displayXLarge">Imagine being...</h2>
+		<div class="span-12 mt1 mb2">
+			<h2>Recent Work</h2>
 		</div>
-		<div class="span-12 md-span-4 mt2 md-mb6">
-			<h4>Resilient</h4>
-			<p>Your brand unites a team around a common purpose, attracting loyal customers, top-tier talent, and like-minded investors. More than mere survival, your brand thrives in volatility.</p>
-		</div>
-		<div class="span-12 md-span-4 md-start-7 mt2 md-mb6">
-			<h4>Remarkable</h4>
-			<p>Your brand cuts through the noise, raising perceived value and communicating a distinct message. In a sea of sameness, your brand stands out, leaves an impression, and drives growth.</p>
-		</div>
-		<div class="span-12 mt6 mb6">
-			<h2 class="displayLarge">We can help make this your reality. <br class="mobile-hide">Just like we've done for these companies...</h3>
-		</div>
-		
-</section>
-
-<section>
-	<div class="wrap">
 		<!-- <div class="span-12 md-span-4 md-start-5">
 			<h4 class="text-center">Recent Transformations</h4>
 		</div> -->
 		<div class="portfolio span-12">
 
 			{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
-			{% for project in sorted_projects limit: 4 %}
+			{% for project in sorted_projects limit: 6 %}
 			<div class="portfolio-item">
 				<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
 					<div class="portfolio-item__image">
@@ -53,42 +39,138 @@ body_class: home
 					</div>
 					<div class="portfolio-item__content">
 						<h2 class="portfolio-item__title displayMedium">{{ project.title }}</h2>
-						<h3 class="portfolio-item__subtitle displayMedium">{{ project.description }}</h3>
-						<p class="portfolio-item__services caption">{{ project.services }}</p>
+						<!-- <p class="portfolio-item__services caption">{{ project.description }}</p> -->
+						<!-- <p class="portfolio-item__services caption">{{ project.services }}</p> -->
 					</div>
 				</a>
 			</div>
 			{% endfor %}
 		</div>
 		<div class="span-12 text-center">
-			<a href="/work" class="button mb5 mt5">See Our Work</a>
+			<a href="/work" class="button button-gradient mb8 mt2"><span>See Our Work</span></a>
 		</div>
-		
+	</div>
+</section>
+
+<section>
+	<div class="wrap mb10">
+		<div class="span-12 md-span-4">
+			<img class="avatar" src="/images/home/sergiu.png">
+			<blockquote class="blockquote-small">“We didn’t have coherent messaging before. Overline helped us position as premium when competing with other geographies that could beat us on pricing.”</blockquote>
+			<p class="caption mt4">Sergiu Poenaru, CEO of HKR</p>
+		</div>
+		<div class="span-12 md-span-4 md-start-5">
+			<img class="avatar" src="/images/home/tim.png">
+			<blockquote class="blockquote-small">“Your collaborative approach to design has not only helped us create a strong visual identity but also fostered a sense of inclusion throughout our team.”</blockquote>
+			<p class="caption mt4">Tim Griffin, CEO of Craftwork</p>
+		</div>
+		<div class="span-12 md-span-4 md-start-9">
+			<img class="avatar" src="/images/home/ashley.png">
+			<blockquote class="blockquote-small">“The outcome was *chef’s kiss*! We now have a visual identity that is fun and approachable, but also is clean and professional. Plus, it’s unique! We really stand out from others in the space.”</blockquote>
+			<p class="caption mt4">Ashley Safranski, CMO of uConnect</p>
+		</div>
+	</div>
+</section>
+
+<section class="bg-dark">
+	<div class="wrap mb2 mt8">
+		<div class="span-12 mb2 md-mb8">
+			<h2 class="displayXLarge">The exceptional work you do <br class="mobile-hide"/>deserves to look the part.</h2>
+		</div>
+		<div class="span-12 md-span-6 md-start-7 mt1 mb8">
+			<p>But we know the effort required to build great products and serve enthusiastic customers often means that your brand falls by the wayside.</p>
+			<p>Overline is a lightweight design studio focused on helping tech companies resolve that brand dissonance. We specialize in connecting your remarkable offering with compelling visuals, ensuring your brand fully reflects your mission, resonates with your audience, and raises your bottom line.</p>
+		</div>
+		<h6 class="span-12">What We Do</h6>
+		<div class="card span-12 md-span-4">
+			<h3 class="displayLarge">Identity <span><img src="/images/home/identity.svg"></span></h3>
+			<p>Reflect your vision of a bright future in a remarkable brand identity.</p>
+			<ul class="checklist">
+				<li>Brand Workshops</li>
+				<li>Brand Strategy</li>
+				<li>Logomarks + Logotypes</li>
+				<li>Color Palettes</li>
+				<li>Typography + Fonts</li>
+				<li>Visual Languages</li>
+				<li>Brand Guidelines</li>
+			</ul>
+		</div>
+		<div class="card span-12 md-span-4 md-start-5">
+			<h3 class="displayLarge">Web <span><img src="/images/home/web.svg"></span></h3>
+			<p>Bring your brand to life in the context of a website that communicates your vision.</p>
+			<ul class="checklist">
+				<li>Website Workshops</li>
+				<li>Content Strategy</li>
+				<li>Wireframing</li>
+				<li>Website Copy</li>
+				<li>Visual Design</li>
+				<li>UI Kits</li>
+				<li>Development Consulting</li>
+			</ul>
+		</div>
+		<div class="card span-12 md-span-4 md-start-9">
+			<h3 class="displayLarge">Support <span><img src="/images/home/support.svg"></span></h3>
+			<p>Push your visual expression into the corners while remaining consistent.</p>
+			<ul class="checklist">
+				<li>Website Tweaks</li>
+				<li>Apparel</li>
+				<li>Conference Booth Design</li>
+				<li>One-Pagers</li>
+				<li>Deck Templates</li>
+				<li>Blog Imagery</li>
+				<li>Social Media Templates</li>
+			</ul>
+		</div>
+		<div class="span-12 text-center">
+			<a target="_blank" href="https://app.hellobonsai.com/f/2fe3188ca264607" class="button button-gradient mb5 mt5"><span>Schedule a Call</span></a>
+		</div>
+	</div>
+</section>
+
+<section class="bg-dark">
+	<div class="wrap mb10">
+		<div class="span-12 md-span-4">
+			<img class="avatar" src="/images/home/kyle.png">
+			<blockquote class="blockquote-small">“You saw our brand revamp as a challenge, not an exercise in comfort and familiarity. You broke from our history and came out swinging with fresh ideas that have propelled our brand forward.”</blockquote>
+			<p class="caption mt4">Kyle Barber, Creative Lead at Pliancy</p>
+		</div>
+		<div class="span-12 md-span-4 md-start-5">
+			<img class="avatar" src="/images/home/kelsey.png">
+			<blockquote class="blockquote-small">“You helped us take our whole company experience to another level, pushing us to think holistically about the company and the brand. It really showed that you captured the core of who we are, making it a much smoother change than it could have been.”</blockquote>
+			<p class="caption mt4">Kelsey Stout, CMO of Koble</p>
+		</div>
+		<div class="span-12 md-span-4 md-start-9">
+			<img class="avatar" src="/images/home/lisa.png">
+			<blockquote class="blockquote-small">“Our collaboration was instrumental in launching Siena. Overline captured the essence of our vision and the brand has played a huge role in attracting new partnerships and expanding our business.”</blockquote>
+			<p class="caption mt4">Lisa Popovici, CMO of Siena</p>
+		</div>
 	</div>
 </section>
 
 <section class="bg-light pt10 pb10">
 	<div class="wrap">
 		<div class="span-12 mb5">
-			<h2 class="displayXLarge">Good design grows <br class="mobile-hide">your bottom line</h2>
+			<h2 class="displayXLarge">Your brand is being built no matter what. <br class="mobile-hide" /> Is it by default or by design?</h2>
 		</div>
-		<div class="span-12 md-span-5">
-			<p class="mt5">Companies that invest in exceptional design often see 30%+ more revenue growth¹ and are 3X more likely to achieve their business goals².</p>
-			<p>At Overline, our mission is to empower tech-driven companies with world-class brand identity design. Our team will work tirelessly to understand your company, your audience, and your vision.</p>
-			<p>By collaborating closely with you, we'll craft a brand identity that authentically reflects your core values and resonates with your target market. Learn about our process of creating an unforgettable brand experience that propels your business forward.</p>
-			<a href="https://app.hellobonsai.com/s/jtgrauke/intro-call" target="_blank" class="button mb5">Schedule a Call</a>
-			<div class="mt5">
-				<p class="caption">
-					¹McKinsey & Company, "The Business Value of Design"</br>
-					²Adobe, "2019 Digital Trends Report"</p>
-			</div>
+		<div class="span-12 md-span-6 md-start-7 mt1 mb10">
+			<p>When left unchecked, your brand narrative can unfold on its own, often leading to mixed messages, missed opportunities, and misaligned perceptions. Don't leave your brand's story to chance.</p>
+			<p>By contrast, intentionally shaping your brand narrative ensures clarity, authenticity, and a strong connection with your audience. Take control and craft a story that truly represents your mission and resonates deeply.</p>
 		</div>
-		<div class="span-12 md-span-5 md-start-7 stats">
-			<ul>
-				<li>Happy Clients: <span>84</span></li>
-				<li>Years of Experience: <span>11+</span></li>
-				<li>Brand Presentations: <span>1K+</span></li>
-			</ul>
+		<h6 class="span-12">Brand Benefits</h6>
+		<div class="card span-12 md-span-4">
+			<h3 class="displayLarge">Clarity <span><img src="/images/home/clarity.svg"></span></h3>
+			<p>Clear communication is powerful. With a well-crafted brand, there's no room for misinterpretation—every element speaks clearly to your mission, goals, and ethos, offering a beacon both internally and for your audience.</p>
+		</div>
+		<div class="card span-12 md-span-4 md-start-5">
+			<h3 class="displayLarge">Authenticity <span><img src="/images/home/authenticity.svg"></span></h3>
+			<p>Your brand isn't a facade—it's a genuine reflection of who you are. Dive deep into the core of your values and let them shine authentically. By remaining true to your mission, you cultivate trust and loyalty in your stakeholders.</p>
+		</div>
+		<div class="card span-12 md-span-4 md-start-9">
+			<h3 class="displayLarge">Resonance <span><img src="/images/home/resonance.svg"></span></h3>
+			<p>More than just visuals or words, a brand can evoke feelings and memories. Our strategic approach ensures your brand touches the heart, creating an emotional bridge between you and your audience, and fosters more meaningful connections.</p>
+		</div>
+		<div class="span-12 text-center">
+			<a href="/contact" class="button button-gradient mb5 mt5"><span>Schedule a Call</span></a>
 		</div>
 	</div>
 </section>

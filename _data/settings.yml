@@ -8,14 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: ''
+    - title: 'Studio'
       url: '/'
     - title: 'Work'
       url: '/work'
-    - title: 'About'
-      url: '/about'
-    - title: 'Contact'
-      url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.4
@@ -66,14 +62,14 @@ social_settings:
 color_settings:
   background_color: '#FFFFFF'
   background_alt_color: '#F3F3F4'
-  text_dark_color: '#000000'
+  text_dark_color: '#1a1a1a'
   text_medium_color: '#999999'
   text_light_color: '#DDDDDD'
   accent_color: '#1F69FF'
   border_color: '#CCCCCC'
-  overlay_background_color: '#000000'
+  overlay_background_color: '#1a1a1a'
   overlay_text_color: '#ffffff'
-  overlay_accent_color: '#000000'
+  overlay_accent_color: '#1a1a1a'
   error_color: '#FE4531'
 
 font_settings:
@@ -82,7 +78,7 @@ font_settings:
   body_font: 'Helvetica Neue, Helvetica, sans-serif'
   detail_font: 'Inconsolata, Menlo, monospace'
   regular_weight: 400
-  bold_weight: 700
+  bold_weight: 600
 
 advanced_settings:
   ajax_loading: false

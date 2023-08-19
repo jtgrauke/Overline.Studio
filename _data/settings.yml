@@ -78,7 +78,7 @@ font_settings:
   body_font: 'Helvetica Neue, Helvetica, sans-serif'
   detail_font: 'Inconsolata, Menlo, monospace'
   regular_weight: 400
-  bold_weight: 600
+  bold_weight: 700
 
 advanced_settings:
   ajax_loading: false

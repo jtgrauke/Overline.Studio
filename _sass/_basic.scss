@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1, .displayXLarge {
 	font-size: 48px;
-	font-weight: 500;
+	font-weight: $bold-weight;
 	line-height: 1;
 	letter-spacing: -0.05em;
 	margin-bottom: 2rem;
@@ -225,7 +225,7 @@ h3, .displayMedium {
 
 h4, .displaySmall {
 	font-size: 20px;
-	font-weight: 600;
+	font-weight: $bold-weight;
 	line-height: 1.4;
 	letter-spacing: -0.01em;
 

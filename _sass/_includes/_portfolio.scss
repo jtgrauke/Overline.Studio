@@ -15,10 +15,6 @@
 	position: relative;
 	margin-bottom: 56px;
 
-	.portfolio-item__title {
-		font-weight: 400;
-	}
-
 	@include mq(tabletl) {
 		padding: $grid-spacing/2;
 		float: left;

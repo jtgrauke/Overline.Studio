@@ -21,6 +21,7 @@
 .header-logo {
 	display: block;
 	width: $logo-width;
+	padding: 16px 0;
 
 	@include mq(tabletp) {
 		float: left;

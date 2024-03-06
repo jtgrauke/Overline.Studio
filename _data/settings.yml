@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/logotype.svg
-  logo_width: 220
+  logo_width: 200
 
 menu_settings:
   menu_items:

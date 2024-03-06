@@ -16,11 +16,13 @@
 	.overline-mark  {
 	
 		.circle-one, .circle-two {
-			border-color: #fff;
+			background-image: url('../images/circle-white.svg');
+			// border-color: #fff;
 		}
 
 		.line {
-			background: #fff;
+			background-image: url('../images/line-white.svg');
+			// background: #fff;
 		}
 	}
 

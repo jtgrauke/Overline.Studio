@@ -132,7 +132,7 @@
 @font-face {
 	font-family: 'BDO Grotesk';
 	src: url('../fonts/bdo-grotesk/bdogrotesk-light.woff2') format('woff2'),
-		 url('../fonts/bdo-grotesk/bdogrotesk-light.woff') format('woff'),
+		 url('../fonts/bdo-grotesk/bdogrotesk-light.woff') format('woff');
 		 font-weight: 300;
 		 font-display: swap;
 		 font-style: normal;
@@ -141,7 +141,7 @@
 @font-face {
 	font-family: 'BDO Grotesk';
 	src: url('../fonts/bdo-grotesk/bdogrotesk-regular.woff2') format('woff2'),
-		 url('../fonts/bdo-grotesk/bdogrotesk-regular.woff') format('woff'),
+		 url('../fonts/bdo-grotesk/bdogrotesk-regular.woff') format('woff');
 		 font-weight: 400;
 		 font-display: swap;
 		 font-style: normal;
@@ -223,7 +223,7 @@ iframe {
 	text-transform: uppercase;
 }
 
-.text-spacing-1 {
+.text-spacing-1  {
 	letter-spacing: 0.05em;
 }
 

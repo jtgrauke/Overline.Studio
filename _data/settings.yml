@@ -21,7 +21,7 @@ contact_settings:
   form_action: ''
   confirmation_url: 
   email_subject: 
-  send_button_text: 
+  send_button_text: b
 
 authors: 
   jt: 
